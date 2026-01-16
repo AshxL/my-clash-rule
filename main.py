@@ -11,7 +11,6 @@ def fetch_and_convert():
         "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "accept-language": "zh-CN,zh;q=0.9",
         "cache-control": "max-age=0",
-        "if-none-match": "W/\"82592ade4548f89e14022b09af3557a3\"",
         "priority": "u=0, i",
         "sec-ch-ua": "\"Google Chrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
         "sec-ch-ua-mobile": "?0",
