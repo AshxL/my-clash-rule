@@ -30,7 +30,7 @@ def fetch_and_convert():
     count_1 = 0
     count_2 = 0
 
-    print("--- 开始运行 ---")
+    print("--- 开始运行 --- 111")
 
     # ---------------------------
     # 处理文件 1 (Clash)
