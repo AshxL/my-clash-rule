@@ -33,6 +33,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        # 检查是否有文件变化
-        git add result.list
+        # 同时添加 result.list 和 Global.list
+        git add result.list Global.list
+        # 只有当有变化时才提交
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update rules [skip ci]" && git push)
