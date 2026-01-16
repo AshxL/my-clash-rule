@@ -6,72 +6,104 @@ def fetch_and_convert():
     url_clash = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt"
     url_global = "https://yfamilys.com/rule/Global.list"
 
+    # 伪装成浏览器的 User-Agent，防止被服务器拦截
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+
     # 使用集合(Set)来存储规则，利用其特性自动去重
     rules_set = set()
+    
+    # 计数器
+    count_1 = 0
+    count_2 = 0
 
-    print("正在下载 Clash 规则 (File 1)...")
+    print("--- 开始运行 ---")
+
+    # ---------------------------
+    # 处理文件 1 (Clash)
+    # ---------------------------
+    print(f"正在下载 Clash 规则: {url_clash}")
     try:
-        resp_clash = requests.get(url_clash, timeout=10)
+        resp_clash = requests.get(url_clash, headers=headers, timeout=15)
         resp_clash.raise_for_status()
+        resp_clash.encoding = 'utf-8' # 强制编码
         
-        # 解析文件 1 (Clash yaml 格式)
-        for line in resp_clash.text.splitlines():
+        lines = resp_clash.text.splitlines()
+        print(f"文件 1 下载成功，原始行数: {len(lines)}")
+
+        for line in lines:
             line = line.strip()
-            # 跳过 payload: 开头或空行
             if not line or line.startswith('payload:'):
                 continue
             
-            # 处理格式:   - 'example.com' 或 - '+.example.com'
-            # 1. 去掉开头的 - 和空格
-            # 2. 去掉单引号 ' 或双引号 "
+            # 格式处理: - 'xxx' 或 - "+.xxx"
             clean_line = line.lstrip("- ").strip("'\"")
             
-            # 3. 处理 Clash 的通配符 "+."
-            # Clash 的 "+.baidu.com" 等同于 Surge 的 DOMAIN-SUFFIX,baidu.com
+            # 处理 Clash 通配符 "+."
             if clean_line.startswith("+."):
-                domain = clean_line[2:] # 去掉前两个字符 +.
+                domain = clean_line[2:]
             else:
                 domain = clean_line
 
             if domain:
-                # 按照文件 2 的格式拼接
-                rules_set.add(f"DOMAIN-SUFFIX,{domain}")
+                # 转换为 DOMAIN-SUFFIX 格式
+                final_rule = f"DOMAIN-SUFFIX,{domain}"
+                if final_rule not in rules_set:
+                    rules_set.add(final_rule)
+                    count_1 += 1
                 
     except Exception as e:
-        print(f"下载或处理 Clash 规则失败: {e}")
+        print(f"!!! 错误：处理 Clash 规则失败: {e}")
 
-    print("正在下载 Global 规则 (File 2)...")
+    # ---------------------------
+    # 处理文件 2 (Global)
+    # ---------------------------
+    print(f"\n正在下载 Global 规则: {url_global}")
     try:
-        resp_global = requests.get(url_global, timeout=10)
+        resp_global = requests.get(url_global, headers=headers, timeout=15)
         resp_global.raise_for_status()
+        resp_global.encoding = 'utf-8'
+        
+        lines = resp_global.text.splitlines()
+        print(f"文件 2 下载成功，原始行数: {len(lines)}")
 
-        # 解析文件 2 (直接合并)
-        for line in resp_global.text.splitlines():
+        for line in lines:
             line = line.strip()
             # 跳过注释和空行
             if not line or line.startswith("#"):
                 continue
             
-            # 文件 2 已经是目标格式，直接加入集合
-            # 如果文件 2 包含 DOMAIN,xxx 等其他类型，也会被保留
-            rules_set.add(line)
+            # 文件 2 已经是目标格式，直接添加
+            if line not in rules_set:
+                rules_set.add(line)
+                count_2 += 1
 
     except Exception as e:
-        print(f"下载或处理 Global 规则失败: {e}")
+        print(f"!!! 错误：处理 Global 规则失败: {e}")
 
-    # 排序并写入文件
-    print(f"合并完成，共计 {len(rules_set)} 条规则。正在写入 result.list...")
+    # ---------------------------
+    # 输出结果
+    # ---------------------------
+    print(f"\n--- 统计 ---")
+    print(f"文件 1 有效规则数: {count_1}")
+    print(f"文件 2 有效规则数: {count_2} (新增且不重复)")
+    print(f"最终合并规则总数: {len(rules_set)}")
     
-    with open("result.list", "w", encoding="utf-8") as f:
-        # 添加一些头部信息（可选）
-        f.write("# Auto-generated rule list\n")
-        f.write("# Mixed content from Loyalsoldier and yfamilys\n")
-        
-        # 排序后写入，保持列表整洁
-        for rule in sorted(rules_set):
-            f.write(rule + "\n")
+    if len(rules_set) == 0:
+        print("!!! 警告：没有获取到任何规则，请检查网络或源地址。")
+    else:
+        print("正在写入 result.list...")
+        with open("result.list", "w", encoding="utf-8") as f:
+            f.write("# Auto-generated rule list\n")
+            f.write(f"# Source 1: {url_clash}\n")
+            f.write(f"# Source 2: {url_global}\n")
+            f.write(f"# Total rules: {len(rules_set)}\n")
             
-    print("完成！")
+            # 排序后写入
+            for rule in sorted(rules_set):
+                f.write(rule + "\n")
+        print("写入完成！")
 
 if __name__ == "__main__":
     fetch_and_convert()
