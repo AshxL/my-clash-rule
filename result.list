@@ -1,5 +1,7 @@
 # Auto-generated rule list
-# Mixed content from Loyalsoldier and yfamilys
+# Source 1: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
+# Source 2: https://yfamilys.com/rule/Global.list
+# Total rules: 26660
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
