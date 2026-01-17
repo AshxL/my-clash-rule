@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54578
+# Total: 54582
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -34676,16 +34676,20 @@ DOMAIN-SUFFIX,ntdofifreetv-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,ntdtv-dc.com
 DOMAIN-SUFFIX,ntdtv.ca
+DOMAIN-SUFFIX,ntdtv.co.il
 DOMAIN-SUFFIX,ntdtv.co.kr
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntdtv.com.tw
 DOMAIN-SUFFIX,ntdtv.cz
+DOMAIN-SUFFIX,ntdtv.fr
 DOMAIN-SUFFIX,ntdtv.jp
 DOMAIN-SUFFIX,ntdtv.kr
 DOMAIN-SUFFIX,ntdtv.org
 DOMAIN-SUFFIX,ntdtv.ru
+DOMAIN-SUFFIX,ntdtv.se
 DOMAIN-SUFFIX,ntdtv.tk
 DOMAIN-SUFFIX,ntdtvla.com
+DOMAIN-SUFFIX,ntdvideo.tw
 DOMAIN-SUFFIX,ntdvn.com
 DOMAIN-SUFFIX,ntdvn.net
 DOMAIN-SUFFIX,nthlink.com
