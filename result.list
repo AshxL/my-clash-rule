@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54582
+# Total: 54588
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4416,8 +4416,10 @@ DOMAIN-SUFFIX,anlex.biz
 DOMAIN-SUFFIX,anm.co.uk
 DOMAIN-SUFFIX,annamilk.com
 DOMAIN-SUFFIX,annamrita.org
+DOMAIN-SUFFIX,annas-archive.in
 DOMAIN-SUFFIX,annas-archive.li
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.pm
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,annikafoundation.org
@@ -28058,6 +28060,7 @@ DOMAIN-SUFFIX,kr1.sgateway.link
 DOMAIN-SUFFIX,kr11.vslovetv.com
 DOMAIN-SUFFIX,kr71.4.688.org
 DOMAIN-SUFFIX,kraftfoerster.de
+DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,krakenjs.com
@@ -37267,6 +37270,7 @@ DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playbar.biz
+DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,playboard.co
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboy.com.uk
@@ -38757,6 +38761,8 @@ DOMAIN-SUFFIX,pu9944.com
 DOMAIN-SUFFIX,pu9955.com
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,puba.com
+DOMAIN-SUFFIX,pubg.com
+DOMAIN-SUFFIX,pubg1.battleye.com
 DOMAIN-SUFFIX,publ.co
 DOMAIN-SUFFIX,public-sex-porn.com
 DOMAIN-SUFFIX,public-trust.com
