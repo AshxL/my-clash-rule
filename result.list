@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54350
+# Total: 54353
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -20273,6 +20273,7 @@ DOMAIN-SUFFIX,geocities.com
 DOMAIN-SUFFIX,geocities.jp
 DOMAIN-SUFFIX,geodesummit.com
 DOMAIN-SUFFIX,geog-event.hku.hk
+DOMAIN-SUFFIX,geogebra.org
 DOMAIN-SUFFIX,geoip.over9000.wtf
 DOMAIN-SUFFIX,geojson.io
 DOMAIN-SUFFIX,geolytics.com
@@ -50606,6 +50607,7 @@ DOMAIN-SUFFIX,wiki.esu.im
 DOMAIN-SUFFIX,wiki.froth.zone
 DOMAIN-SUFFIX,wiki.gamerp.jp
 DOMAIN-SUFFIX,wiki.gd
+DOMAIN-SUFFIX,wiki.gg
 DOMAIN-SUFFIX,wiki.jqueryui.com
 DOMAIN-SUFFIX,wiki.keso.cn
 DOMAIN-SUFFIX,wiki.kfd.me
@@ -50936,6 +50938,7 @@ DOMAIN-SUFFIX,wolfatbestbuy.com
 DOMAIN-SUFFIX,wolfatbestbuy.net
 DOMAIN-SUFFIX,wolfax.com
 DOMAIN-SUFFIX,wolfram.com
+DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,wolfsburger-nachrichten.de
 DOMAIN-SUFFIX,wolfsex-me.sbs
 DOMAIN-SUFFIX,wollzelle.com
