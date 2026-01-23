@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54353
+# Total: 54356
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -16282,6 +16282,8 @@ DOMAIN-SUFFIX,endlessmovie.com
 DOMAIN-SUFFIX,endorganpillaging.org
 DOMAIN-SUFFIX,endtransplantabuse.org
 DOMAIN-SUFFIX,enduyghurforcedlabour.org
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enel.com
 DOMAIN-SUFFIX,enelec.com.ar
 DOMAIN-SUFFIX,enema-porn.com
@@ -35109,6 +35111,7 @@ DOMAIN-SUFFIX,okweb.com.tw
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okxav.com
 DOMAIN-SUFFIX,okxxxmovies.com
