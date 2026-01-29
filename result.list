@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54362
+# Total: 54374
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -5227,6 +5227,8 @@ DOMAIN-SUFFIX,arkbaptistchurch.org
 DOMAIN-SUFFIX,arkpay.site
 DOMAIN-SUFFIX,arlinea.com.tw
 DOMAIN-SUFFIX,arlingtoncemetery.mil
+DOMAIN-SUFFIX,arma3.com
+DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,armovs.com
 DOMAIN-SUFFIX,army.mil
@@ -6540,6 +6542,7 @@ DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
 DOMAIN-SUFFIX,battlemetrics.com
 DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,baus.ec
 DOMAIN-SUFFIX,baxsound.com
 DOMAIN-SUFFIX,bayareabmw.com
@@ -7709,6 +7712,7 @@ DOMAIN-SUFFIX,bisipic.site
 DOMAIN-SUFFIX,bismarck-besmart.com.tw
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bistudio.com
 DOMAIN-SUFFIX,biswap.org
 DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
 DOMAIN-SUFFIX,bit-profit.net
@@ -8761,6 +8765,7 @@ DOMAIN-SUFFIX,bofang.la
 DOMAIN-SUFFIX,bogusx.idv.tw
 DOMAIN-SUFFIX,boh.com.tw
 DOMAIN-SUFFIX,bohaitong.com
+DOMAIN-SUFFIX,bohemia.net
 DOMAIN-SUFFIX,boj.or.jp
 DOMAIN-SUFFIX,bok88.com
 DOMAIN-SUFFIX,bokep.net
@@ -12320,6 +12325,7 @@ DOMAIN-SUFFIX,critic.de
 DOMAIN-SUFFIX,critiquebrainz.org
 DOMAIN-SUFFIX,critraining.com
 DOMAIN-SUFFIX,crittercism.com
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,crl.microsoft.com
 DOMAIN-SUFFIX,crl.versign.net
 DOMAIN-SUFFIX,crmdynint-gcc.com
@@ -13448,6 +13454,7 @@ DOMAIN-SUFFIX,daytonbmw.com
 DOMAIN-SUFFIX,daytondailynews.com
 DOMAIN-SUFFIX,daytontrucktires.com
 DOMAIN-SUFFIX,dayu.ca
+DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,dazangthings.nz
 DOMAIN-SUFFIX,dazdu2iuzl72b.cloudfront.net
 DOMAIN-SUFFIX,dazn-api.com
@@ -29916,6 +29923,7 @@ DOMAIN-SUFFIX,maitripa.org
 DOMAIN-SUFFIX,maizhong.org
 DOMAIN-SUFFIX,makaan.com
 DOMAIN-SUFFIX,makeanything.com
+DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,makecode.org
 DOMAIN-SUFFIX,makeeu.com
@@ -35407,6 +35415,7 @@ DOMAIN-SUFFIX,openacct.poems.com.sg
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,openaked.com
 DOMAIN-SUFFIX,openallweb.com
@@ -42195,6 +42204,7 @@ DOMAIN-SUFFIX,sikaozhe1997.github.io
 DOMAIN-SUFFIX,sikiswap.com
 DOMAIN-SUFFIX,sikkerhets.guru
 DOMAIN-SUFFIX,silence.org.hk
+DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,silicatrading.com
 DOMAIN-SUFFIX,silicon-mobility.com
 DOMAIN-SUFFIX,siliconmobility.com
@@ -48789,6 +48799,7 @@ DOMAIN-SUFFIX,viewpoint.pts.org.tw
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,viewyoutube.net
 DOMAIN-SUFFIX,vigilantvpn.com
+DOMAIN-SUFFIX,vigorgame.com
 DOMAIN-SUFFIX,vigormedia.tw
 DOMAIN-SUFFIX,vigorspring.com.tw
 DOMAIN-SUFFIX,vijayatemple.org
@@ -53081,6 +53092,7 @@ DOMAIN-SUFFIX,yl7799.org
 DOMAIN-SUFFIX,yl8.com
 DOMAIN-SUFFIX,yl8899.org
 DOMAIN-SUFFIX,yl9936.com
+DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ylg30.com
 DOMAIN-SUFFIX,ylib.com
 DOMAIN-SUFFIX,ylibrary.org
