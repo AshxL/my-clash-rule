@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54374
+# Total: 54381
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -5546,6 +5546,7 @@ DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atime.live
 DOMAIN-SUFFIX,atimes.com
 DOMAIN-SUFFIX,atkgallery.com
+DOMAIN-SUFFIX,atl-paas.net
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atlantaharekrishnas.com
 DOMAIN-SUFFIX,atlantaminidealers.com
@@ -5555,6 +5556,7 @@ DOMAIN-SUFFIX,atlasdmt.com
 DOMAIN-SUFFIX,atlasofassistedreproduction.com
 DOMAIN-SUFFIX,atlasonepoint.com
 DOMAIN-SUFFIX,atlaspost.com
+DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atlasvpn.com
@@ -18681,6 +18683,9 @@ DOMAIN-SUFFIX,fotosdeputaria.net
 DOMAIN-SUFFIX,fouladkar.ir
 DOMAIN-SUFFIX,foundation.app
 DOMAIN-SUFFIX,foundationdb.org
+DOMAIN-SUFFIX,foundationdns.com
+DOMAIN-SUFFIX,foundationdns.net
+DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,fountmedia.io
 DOMAIN-SUFFIX,fouporno.com
 DOMAIN-SUFFIX,fourface.nodesnoop.com
@@ -26663,6 +26668,7 @@ DOMAIN-SUFFIX,jinyongfang.com
 DOMAIN-SUFFIX,jinyuanweiye.com
 DOMAIN-SUFFIX,jinyuyi.com
 DOMAIN-SUFFIX,jio.com
+DOMAIN-SUFFIX,jira.com
 DOMAIN-SUFFIX,jiruan.net
 DOMAIN-SUFFIX,jishangjia.com
 DOMAIN-SUFFIX,jisutiyu.com
@@ -43358,6 +43364,7 @@ DOMAIN-SUFFIX,srv55.clipconverter.cc
 DOMAIN-SUFFIX,srvpn.com
 DOMAIN-SUFFIX,ss-fast.net
 DOMAIN-SUFFIX,ss-free.net
+DOMAIN-SUFFIX,ss-inf.net
 DOMAIN-SUFFIX,ss-link.com
 DOMAIN-SUFFIX,ss.agro.hk
 DOMAIN-SUFFIX,ss.ccc.moe
