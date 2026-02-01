@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54382
+# Total: 54384
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -6596,6 +6596,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,bbc.mp-pxcdn.com
 DOMAIN-SUFFIX,bbc.net.uk
+DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
 DOMAIN-SUFFIX,bbc1.azurewebsites.net
 DOMAIN-SUFFIX,bbc2.azurewebsites.net
 DOMAIN-SUFFIX,bbc6.azurewebsites.net
@@ -29285,6 +29286,7 @@ DOMAIN-SUFFIX,loudtronix.co
 DOMAIN-SUFFIX,loudtronix.me
 DOMAIN-SUFFIX,louislegrand.org
 DOMAIN-SUFFIX,louisville.edu
+DOMAIN-SUFFIX,louisvuitton.com
 DOMAIN-SUFFIX,loukky.com
 DOMAIN-SUFFIX,lourdes.org.tw
 DOMAIN-SUFFIX,lousa.com.tw
