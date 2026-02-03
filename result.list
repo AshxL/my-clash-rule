@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 54384
+# Total: 54388
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -9213,6 +9213,7 @@ DOMAIN-SUFFIX,bs-awh.ne.jp
 DOMAIN-SUFFIX,bs-cdn.xyz
 DOMAIN-SUFFIX,bs.neciklopedija.org
 DOMAIN-SUFFIX,bs111111.site
+DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,bscdn.xyz
 DOMAIN-SUFFIX,bsdrp.net
 DOMAIN-SUFFIX,bsi.ir
@@ -35863,6 +35864,7 @@ DOMAIN-SUFFIX,pacifickitchenandhome.com
 DOMAIN-SUFFIX,pacificpallet.ca
 DOMAIN-SUFFIX,pacificpoker.com
 DOMAIN-SUFFIX,pacificquorum.com
+DOMAIN-SUFFIX,packages.microsoft.com
 DOMAIN-SUFFIX,packaging-cadcam.com
 DOMAIN-SUFFIX,packagingcadcam.com
 DOMAIN-SUFFIX,packagist.org
@@ -37018,6 +37020,7 @@ DOMAIN-SUFFIX,pjdc9900.com
 DOMAIN-SUFFIX,pjful-app.lol
 DOMAIN-SUFFIX,pjgirls.com
 DOMAIN-SUFFIX,pjmedia.com
+DOMAIN-SUFFIX,pjsekai.sega.jp
 DOMAIN-SUFFIX,pjtra.com
 DOMAIN-SUFFIX,pk.com
 DOMAIN-SUFFIX,pk1200.com
@@ -40607,6 +40610,7 @@ DOMAIN-SUFFIX,salebeatslasteststyle4you.com
 DOMAIN-SUFFIX,saleblackfridaydrebeats.com
 DOMAIN-SUFFIX,salecheaphandbags.com
 DOMAIN-SUFFIX,salemspectator.com
+DOMAIN-SUFFIX,salesforce-setup.com
 DOMAIN-SUFFIX,salesforce.com
 DOMAIN-SUFFIX,salesforce.org
 DOMAIN-SUFFIX,salesforceiq.com
