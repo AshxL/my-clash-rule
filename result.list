@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 50782
+# Total: 50788
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -11065,6 +11065,8 @@ DOMAIN-SUFFIX,codehouse.co.kr
 DOMAIN-SUFFIX,codei.sh
 DOMAIN-SUFFIX,codeish.co
 DOMAIN-SUFFIX,codeish.io
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,codemode.cl
 DOMAIN-SUFFIX,codepush.azurewebsites.net
 DOMAIN-SUFFIX,coder.si
@@ -47288,6 +47290,7 @@ DOMAIN-SUFFIX,wikipedia.pl
 DOMAIN-SUFFIX,wikiporn.tv
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikiredia.com
+DOMAIN-SUFFIX,wikis.tw
 DOMAIN-SUFFIX,wikisexguide.com
 DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikispecies.org
@@ -47361,6 +47364,8 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,windscribe.com
 DOMAIN-SUFFIX,windscribe.net
 DOMAIN-SUFFIX,windstream.net
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,winfor.com.tw
 DOMAIN-SUFFIX,wingamestore.com
@@ -49304,6 +49309,7 @@ DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex-bank.net
 DOMAIN-SUFFIX,yandex-images.clstorage.net
+DOMAIN-SUFFIX,yandex-pogoda.static-storage.net
 DOMAIN-SUFFIX,yandex-team.ru
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
