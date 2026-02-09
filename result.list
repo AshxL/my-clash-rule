@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 50788
+# Total: 50808
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -918,8 +918,11 @@ DOMAIN-SUFFIX,2hua.com
 DOMAIN-SUFFIX,2ilt.com
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
 DOMAIN-SUFFIX,2kgames.com
 DOMAIN-SUFFIX,2kju.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online
 DOMAIN-SUFFIX,2lib.org
 DOMAIN-SUFFIX,2lipstube.com
 DOMAIN-SUFFIX,2mdn-cn.net
@@ -2578,6 +2581,7 @@ DOMAIN-SUFFIX,aceprensa.com
 DOMAIN-SUFFIX,acer-group.com
 DOMAIN-SUFFIX,acer.com
 DOMAIN-SUFFIX,aceros-de-hispania.com
+DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,acetop.com
 DOMAIN-SUFFIX,acevpn.com
 DOMAIN-SUFFIX,acg-moe.com
@@ -2654,6 +2658,7 @@ DOMAIN-SUFFIX,activate.wip4.adobe.com
 DOMAIN-SUFFIX,activatevpn.com
 DOMAIN-SUFFIX,activelearnprimary.co.uk
 DOMAIN-SUFFIX,activelearnprimary.com.au
+DOMAIN-SUFFIX,activematter.game
 DOMAIN-SUFFIX,activeteachonline.com
 DOMAIN-SUFFIX,activity2.library.ntpc.net.tw
 DOMAIN-SUFFIX,activpn.com
@@ -4884,6 +4889,7 @@ DOMAIN-SUFFIX,artsnow.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstor.org
+DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,artsy.net
 DOMAIN-SUFFIX,arttogo.com.tw
 DOMAIN-SUFFIX,artyrosa.com
@@ -11652,6 +11658,7 @@ DOMAIN-SUFFIX,crossfire.co.kr
 DOMAIN-SUFFIX,crossfitfirestone.com
 DOMAIN-SUFFIX,crossfity.com
 DOMAIN-SUFFIX,crossmediapanel.com
+DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,crossthewall.net
 DOMAIN-SUFFIX,crossvpn.net
 DOMAIN-SUFFIX,crossvpn.org
@@ -11672,6 +11679,7 @@ DOMAIN-SUFFIX,croxyproxy.com
 DOMAIN-SUFFIX,croxyproxy.net
 DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,crrev.com
+DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,crsna-2015.tk
 DOMAIN-SUFFIX,crsna2015.tk
 DOMAIN-SUFFIX,crts.activemoodle.com
@@ -11793,6 +11801,7 @@ DOMAIN-SUFFIX,cuanwa.com
 DOMAIN-SUFFIX,cubby.com
 DOMAIN-SUFFIX,cubiccm.ddns.net
 DOMAIN-SUFFIX,cubicmotion.com
+DOMAIN-SUFFIX,cubicodyssey.game
 DOMAIN-SUFFIX,cuckfilmswifefuck.com
 DOMAIN-SUFFIX,cuckold69.com
 DOMAIN-SUFFIX,cuckoldfuck.com
@@ -15375,6 +15384,7 @@ DOMAIN-SUFFIX,enjoyvids.com
 DOMAIN-SUFFIX,enlacehacktivista.org
 DOMAIN-SUFFIX,enlanubecr.com
 DOMAIN-SUFFIX,enlighten.org.tw
+DOMAIN-SUFFIX,enlisted.net
 DOMAIN-SUFFIX,enmailing.com
 DOMAIN-SUFFIX,enpass.io
 DOMAIN-SUFFIX,enpedia.rxy.jp
@@ -18563,6 +18573,8 @@ DOMAIN-SUFFIX,gaeproxy.com
 DOMAIN-SUFFIX,gaforum.org
 DOMAIN-SUFFIX,gag-n-gape.com
 DOMAIN-SUFFIX,gagaoolala.com
+DOMAIN-SUFFIX,gaijin.net
+DOMAIN-SUFFIX,gaijinent.com
 DOMAIN-SUFFIX,gainsy.com
 DOMAIN-SUFFIX,gaito.xyz
 DOMAIN-SUFFIX,gal.voiux.com
@@ -29399,6 +29411,7 @@ DOMAIN-SUFFIX,modeltv.com
 DOMAIN-SUFFIX,modern-implant.com.tw
 DOMAIN-SUFFIX,modernchinastudies.org
 DOMAIN-SUFFIX,modernhealthcare.com
+DOMAIN-SUFFIX,modernwarships.com
 DOMAIN-SUFFIX,modireaval.com
 DOMAIN-SUFFIX,modkraft.dk
 DOMAIN-SUFFIX,modmyi.com
@@ -37087,6 +37100,7 @@ DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rocksextube.com
 DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rockwork.ch
 DOMAIN-SUFFIX,rocmgov.org
 DOMAIN-SUFFIX,rogoff.xyz
@@ -40351,6 +40365,7 @@ DOMAIN-SUFFIX,stanford.edu
 DOMAIN-SUFFIX,stansberryresearch.com
 DOMAIN-SUFFIX,staples.ca
 DOMAIN-SUFFIX,star-brasil.com
+DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,star-latam.com
 DOMAIN-SUFFIX,star-w.kir.jp
 DOMAIN-SUFFIX,star.com.tr
@@ -46595,6 +46610,7 @@ DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,warrant.capital.com.tw
 DOMAIN-SUFFIX,warriorforum.com
 DOMAIN-SUFFIX,warroom.org
+DOMAIN-SUFFIX,warthunder.com
 DOMAIN-SUFFIX,wasai.li
 DOMAIN-SUFFIX,wasdj.com
 DOMAIN-SUFFIX,wasel.pro
@@ -47750,6 +47766,7 @@ DOMAIN-SUFFIX,wtfast.com
 DOMAIN-SUFFIX,wtfpeople.com
 DOMAIN-SUFFIX,wthr.com
 DOMAIN-SUFFIX,wtleungco.com
+DOMAIN-SUFFIX,wtmobile.com
 DOMAIN-SUFFIX,wtmonlineconference.com
 DOMAIN-SUFFIX,wtnh.com
 DOMAIN-SUFFIX,wto.org
@@ -50661,6 +50678,9 @@ DOMAIN-SUFFIX,zybt.com.tw
 DOMAIN-SUFFIX,zyd.jygweb.org
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-SUFFIX,zynews.com
+DOMAIN-SUFFIX,zynga.com
+DOMAIN-SUFFIX,zyngaplayersupport.com
+DOMAIN-SUFFIX,zyngapoker.com
 DOMAIN-SUFFIX,zyns.com
 DOMAIN-SUFFIX,zyue.com
 DOMAIN-SUFFIX,zyvpn.com
