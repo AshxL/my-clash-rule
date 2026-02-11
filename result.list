@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 50809
+# Total: 50812
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -2905,6 +2905,7 @@ DOMAIN-SUFFIX,adult-home-videos.com
 DOMAIN-SUFFIX,adult-list.com
 DOMAIN-SUFFIX,adult-sex-games.com
 DOMAIN-SUFFIX,adult-web-site.net
+DOMAIN-SUFFIX,adult.contents.fc2.com
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,adult.toonsearch.net
 DOMAIN-SUFFIX,adult168.com
@@ -19700,6 +19701,7 @@ DOMAIN-SUFFIX,google-melange.com
 DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN-SUFFIX,google-syndication.com
 DOMAIN-SUFFIX,google.897653.xyz
+DOMAIN-SUFFIX,google.ac
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
 DOMAIN-SUFFIX,google.af
@@ -19855,6 +19857,7 @@ DOMAIN-SUFFIX,google.in
 DOMAIN-SUFFIX,google.iq
 DOMAIN-SUFFIX,google.is
 DOMAIN-SUFFIX,google.it
+DOMAIN-SUFFIX,google.it.ao
 DOMAIN-SUFFIX,google.je
 DOMAIN-SUFFIX,google.jo
 DOMAIN-SUFFIX,google.kg
@@ -19913,6 +19916,7 @@ DOMAIN-SUFFIX,google.tn
 DOMAIN-SUFFIX,google.to
 DOMAIN-SUFFIX,google.tt
 DOMAIN-SUFFIX,google.ua
+DOMAIN-SUFFIX,google.us
 DOMAIN-SUFFIX,google.ventures
 DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vn
@@ -35757,6 +35761,7 @@ DOMAIN-SUFFIX,puli-hotel.com.tw
 DOMAIN-SUFFIX,pull-f5-sg01.fcdn.eu.tiktokcdn.com
 DOMAIN-SUFFIX,pull-f5-tt03.fcdn.eu.tiktokcdn.com
 DOMAIN-SUFFIX,pull-w5-va01.fcdn.eu.tiktokcdn.com
+DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pullfolio.com
 DOMAIN-SUFFIX,pullstring.net
 DOMAIN-SUFFIX,pulsate.com
@@ -45313,6 +45318,7 @@ DOMAIN-SUFFIX,video.adultswim.com
 DOMAIN-SUFFIX,video.aol.ca
 DOMAIN-SUFFIX,video.aol.co.uk
 DOMAIN-SUFFIX,video.aol.com
+DOMAIN-SUFFIX,video.fc2.com
 DOMAIN-SUFFIX,video.foxbusiness.com
 DOMAIN-SUFFIX,video.godsdirectcontact.net
 DOMAIN-SUFFIX,video.mediaset.it
@@ -47961,13 +47967,10 @@ DOMAIN-SUFFIX,www.eastturkistan.net
 DOMAIN-SUFFIX,www.gmiddle.com
 DOMAIN-SUFFIX,www.gmiddle.net
 DOMAIN-SUFFIX,www.idlcoyote.com
-DOMAIN-SUFFIX,www.klip.me
-DOMAIN-SUFFIX,www.lib.virginia.edu
 DOMAIN-SUFFIX,www.lorenzetti.com.br
 DOMAIN-SUFFIX,www.m-sport.co.uk
 DOMAIN-SUFFIX,www.monlamit.org
 DOMAIN-SUFFIX,www.moztw.org
-DOMAIN-SUFFIX,www.owind.com
 DOMAIN-SUFFIX,www.oxid.it
 DOMAIN-SUFFIX,www.powerpointninja.com
 DOMAIN-SUFFIX,www.pxcc.com
@@ -47975,7 +47978,6 @@ DOMAIN-SUFFIX,www.s4miniarchive.com
 DOMAIN-SUFFIX,www.sb
 DOMAIN-SUFFIX,www.tablesgenerator.com
 DOMAIN-SUFFIX,www.taiwanonline.cc
-DOMAIN-SUFFIX,www.thechinastory.org
 DOMAIN-SUFFIX,www.wan-press.org
 DOMAIN-SUFFIX,www.websnapr.com
 DOMAIN-SUFFIX,www.xicons.org
@@ -50046,6 +50048,7 @@ DOMAIN-SUFFIX,yulghun.com
 DOMAIN-SUFFIX,yull.co.uk
 DOMAIN-SUFFIX,yumaodian.com
 DOMAIN-SUFFIX,yuming.flnet.org
+DOMAIN-SUFFIX,yuming.qxbbs.org
 DOMAIN-SUFFIX,yumpu.com
 DOMAIN-SUFFIX,yunchao.net
 DOMAIN-SUFFIX,yundong.idv.tw
