@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 50812
+# Total: 50854
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4286,6 +4286,7 @@ DOMAIN-SUFFIX,apkplz.net
 DOMAIN-SUFFIX,apkpool.me
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,apkpures.xyz
 DOMAIN-SUFFIX,apksum.com
 DOMAIN-SUFFIX,apktada.com
 DOMAIN-SUFFIX,apktovi.com
@@ -5193,6 +5194,7 @@ DOMAIN-SUFFIX,attcollaborate.com
 DOMAIN-SUFFIX,attdns.com
 DOMAIN-SUFFIX,attdns.net
 DOMAIN-SUFFIX,attention.com
+DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,attexperts.com
 DOMAIN-SUFFIX,attglobal.net
 DOMAIN-SUFFIX,attic.io
@@ -20144,6 +20146,19 @@ DOMAIN-SUFFIX,granthshala.com
 DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,grapeape.org
 DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,grapheneos.app
+DOMAIN-SUFFIX,grapheneos.ca
+DOMAIN-SUFFIX,grapheneos.com
+DOMAIN-SUFFIX,grapheneos.dev
+DOMAIN-SUFFIX,grapheneos.foundation
+DOMAIN-SUFFIX,grapheneos.info
+DOMAIN-SUFFIX,grapheneos.net
+DOMAIN-SUFFIX,grapheneos.network
+DOMAIN-SUFFIX,grapheneos.online
+DOMAIN-SUFFIX,grapheneos.org
+DOMAIN-SUFFIX,grapheneos.ovh
+DOMAIN-SUFFIX,grapheneos.page
+DOMAIN-SUFFIX,grapheneos.social
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,graphic-line.at
 DOMAIN-SUFFIX,graphis.ne.jp
@@ -38030,6 +38045,7 @@ DOMAIN-SUFFIX,seagate.com
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,seagulltool.web.app
 DOMAIN-SUFFIX,seamild.com.tw
+DOMAIN-SUFFIX,seamlessupdate.app
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,seancody.com
 DOMAIN-SUFFIX,seancodynetwork.com
@@ -42934,6 +42950,7 @@ DOMAIN-SUFFIX,tomp3.pro
 DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,tomshardware.com
 DOMAIN-SUFFIX,tomtwo.com
+DOMAIN-SUFFIX,ton.org
 DOMAIN-SUFFIX,tonalsoft.com
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tongchengau.com
@@ -44188,8 +44205,32 @@ DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ubisoft.com.tw
+DOMAIN-SUFFIX,ubisoft.siteintercept.qualtrics.com
 DOMAIN-SUFFIX,ubisoftconnect.com
+DOMAIN-SUFFIX,ubistatic1-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic10-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic11-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic12-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic13-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic14-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic15-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic16-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic17-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic18-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic19-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic2-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic20-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic21-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic22-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic23-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic24-a.akamaihd.net
 DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic4-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic5-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic6-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic7-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic8-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic9-a.akamaihd.net
 DOMAIN-SUFFIX,ubktv.com
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubncloud.com
@@ -44911,6 +44952,7 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,vampirefreaks.com
 DOMAIN-SUFFIX,van001.com
 DOMAIN-SUFFIX,van698.com
+DOMAIN-SUFFIX,vanadium.app
 DOMAIN-SUFFIX,vanbbs.com
 DOMAIN-SUFFIX,vancanada.com
 DOMAIN-SUFFIX,vancepaulslawfirm.com
