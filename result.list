@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 50952
+# Total: 50978
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -7315,6 +7315,7 @@ DOMAIN-SUFFIX,bitcoin.cz
 DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,bitcoin.org.hk
 DOMAIN-SUFFIX,bitcoinabuse.com
+DOMAIN-SUFFIX,bitcoincore.org
 DOMAIN-SUFFIX,bitcoine.com
 DOMAIN-SUFFIX,bitcoinhackers.org
 DOMAIN-SUFFIX,bitcointalk.org
@@ -38242,6 +38243,7 @@ DOMAIN-SUFFIX,secure.shadowsocks.ch
 DOMAIN-SUFFIX,secure.shadowsocks.nu
 DOMAIN-SUFFIX,secure.sourcemap.com
 DOMAIN-SUFFIX,secureblackbox.com
+DOMAIN-SUFFIX,securecloudtransformation.com
 DOMAIN-SUFFIX,securepaypal.info
 DOMAIN-SUFFIX,securereach.net
 DOMAIN-SUFFIX,securesafe.com
@@ -38256,6 +38258,7 @@ DOMAIN-SUFFIX,securitales.com
 DOMAIN-SUFFIX,securityboulevard.com
 DOMAIN-SUFFIX,securityinabox.org
 DOMAIN-SUFFIX,securitykiss.com
+DOMAIN-SUFFIX,securitypreview.com
 DOMAIN-SUFFIX,securitysite.tech
 DOMAIN-SUFFIX,sedaily.com
 DOMAIN-SUFFIX,see.xxx
@@ -40563,6 +40566,7 @@ DOMAIN-SUFFIX,starfishfx.com
 DOMAIN-SUFFIX,starfox.com
 DOMAIN-SUFFIX,starfrosch.ch
 DOMAIN-SUFFIX,stargate.one
+DOMAIN-SUFFIX,stargazer-games.com
 DOMAIN-SUFFIX,staridol.net
 DOMAIN-SUFFIX,stark-verlag.ch
 DOMAIN-SUFFIX,starling-ie.tiktokv.eu
@@ -40723,6 +40727,8 @@ DOMAIN-SUFFIX,steganos.net
 DOMAIN-SUFFIX,stellar.org
 DOMAIN-SUFFIX,stellarism.com
 DOMAIN-SUFFIX,stellarterm.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,stemcool.com
 DOMAIN-SUFFIX,stemi.tv
 DOMAIN-SUFFIX,stepagency-sy.net
@@ -42503,6 +42509,7 @@ DOMAIN-SUFFIX,threadreaderapp.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threatchaos.com
+DOMAIN-SUFFIX,threatlabz.com
 DOMAIN-SUFFIX,threejewelsvancouver.com
 DOMAIN-SUFFIX,threema.com
 DOMAIN-SUFFIX,thri.xxx
@@ -49744,6 +49751,7 @@ DOMAIN-SUFFIX,ync.ne.jp
 DOMAIN-SUFFIX,yngling.com
 DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,ynpn.org
+DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,yob.etowns.org
 DOMAIN-SUFFIX,yobit.net
@@ -49787,6 +49795,10 @@ DOMAIN-SUFFIX,yorozoonews.jp
 DOMAIN-SUFFIX,yoshinoya.com.tw
 DOMAIN-SUFFIX,yoshiparts.com
 DOMAIN-SUFFIX,yoshisnewisland.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,yotcwsf.edu.hk
 DOMAIN-SUFFIX,yote.xyz
 DOMAIN-SUFFIX,you-get.org
@@ -50357,6 +50369,8 @@ DOMAIN-SUFFIX,zdnet.com.tw
 DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zdoom.org
 DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zdxbeta.net
+DOMAIN-SUFFIX,zdxcloud.net
 DOMAIN-SUFFIX,zebpay.com
 DOMAIN-SUFFIX,zebragirls.com
 DOMAIN-SUFFIX,zeczec.com
@@ -50756,6 +50770,8 @@ DOMAIN-SUFFIX,zozotown.com
 DOMAIN-SUFFIX,zozovideo.com
 DOMAIN-SUFFIX,zoztube.com
 DOMAIN-SUFFIX,zp1024.cc
+DOMAIN-SUFFIX,zpagov.net
+DOMAIN-SUFFIX,zpath.com
 DOMAIN-SUFFIX,zpn.im
 DOMAIN-SUFFIX,zpool.ca
 DOMAIN-SUFFIX,zqgame.com
@@ -50765,6 +50781,16 @@ DOMAIN-SUFFIX,zqzj.net
 DOMAIN-SUFFIX,zr666.vip
 DOMAIN-SUFFIX,zrii.com
 DOMAIN-SUFFIX,zrumbesh.com
+DOMAIN-SUFFIX,zscaler.com
+DOMAIN-SUFFIX,zscaler.jp
+DOMAIN-SUFFIX,zscaler.net
+DOMAIN-SUFFIX,zscalerbeta.net
+DOMAIN-SUFFIX,zscalergov.net
+DOMAIN-SUFFIX,zscalerone.net
+DOMAIN-SUFFIX,zscalershift.com
+DOMAIN-SUFFIX,zscalerthree.net
+DOMAIN-SUFFIX,zscalertwo.net
+DOMAIN-SUFFIX,zscloud.net
 DOMAIN-SUFFIX,zsdxzk.com
 DOMAIN-SUFFIX,zsh.org
 DOMAIN-SUFFIX,zsher.com
