@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51017
+# Total: 51021
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -3444,6 +3444,7 @@ DOMAIN-SUFFIX,akhbarelyoum.dz
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-souken.com
 DOMAIN-SUFFIX,akiba-web.com
+DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,akinator.com
 DOMAIN-SUFFIX,akita-bank.co.jp
 DOMAIN-SUFFIX,akiyama.ca
@@ -5185,6 +5186,7 @@ DOMAIN-SUFFIX,assets.bwbx.io
 DOMAIN-SUFFIX,assets.dashlane.com
 DOMAIN-SUFFIX,assets.fuhuiglobal.com
 DOMAIN-SUFFIX,assets.fxcmapac.com
+DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,assets.ppy.sh
 DOMAIN-SUFFIX,assetsadobe.com
 DOMAIN-SUFFIX,assfuqer.com
@@ -32951,6 +32953,7 @@ DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
+DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendn.xyz
@@ -48145,6 +48148,7 @@ DOMAIN-SUFFIX,www-sms-apple.com
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
+DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,www.cmoinc.org
 DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,www.eastturkistan.net
