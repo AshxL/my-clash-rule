@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51021
+# Total: 51025
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -17956,6 +17956,7 @@ DOMAIN-SUFFIX,freeddns.com
 DOMAIN-SUFFIX,freeddns.org
 DOMAIN-SUFFIX,freedirecttvspecial.com
 DOMAIN-SUFFIX,freedl.org
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedom.tm
 DOMAIN-SUFFIX,freedom.to
 DOMAIN-SUFFIX,freedomchina.info
@@ -29409,7 +29410,9 @@ DOMAIN-SUFFIX,mixblogvideo.blogspot.com.br
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mixer.com
 DOMAIN-SUFFIX,mixero.com
+DOMAIN-SUFFIX,mixi.co.jp
 DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net
 DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mixiu001.top
 DOMAIN-SUFFIX,mixlr.com
@@ -33357,6 +33360,7 @@ DOMAIN-SUFFIX,pacifickitchenandhome.com
 DOMAIN-SUFFIX,pacificpoker.com
 DOMAIN-SUFFIX,pacificquorum.com
 DOMAIN-SUFFIX,pacim.com
+DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,packages.microsoft.com
 DOMAIN-SUFFIX,packaging-cadcam.com
 DOMAIN-SUFFIX,packagingcadcam.com
