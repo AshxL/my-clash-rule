@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51036
+# Total: 51038
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -35392,6 +35392,7 @@ DOMAIN-SUFFIX,ppc-direct.com
 DOMAIN-SUFFIX,ppc-ingenieria.cl
 DOMAIN-SUFFIX,ppdcecc.gov
 DOMAIN-SUFFIX,ppe.lawyer
+DOMAIN-SUFFIX,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN-SUFFIX,pplah.com
 DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,pplx-res.cloudinary.com
@@ -49572,6 +49573,7 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yanfook.org.hk
 DOMAIN-SUFFIX,yangeling.com
