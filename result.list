@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51046
+# Total: 51047
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -24977,6 +24977,7 @@ DOMAIN-SUFFIX,jesusfilmmedia.org
 DOMAIN-SUFFIX,jetblue.com
 DOMAIN-SUFFIX,jetbra.in
 DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.space
