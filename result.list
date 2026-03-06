@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51047
+# Total: 51052
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -14234,6 +14234,7 @@ DOMAIN-SUFFIX,download.apkplz.com
 DOMAIN-SUFFIX,download.camfrogcdn.com
 DOMAIN-SUFFIX,download.cnet.com
 DOMAIN-SUFFIX,download.com
+DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,download.dnscrypt.org
 DOMAIN-SUFFIX,download.fosshub.com
 DOMAIN-SUFFIX,download.qatp1.net
@@ -34535,6 +34536,10 @@ DOMAIN-SUFFIX,pleasuregirl.net
 DOMAIN-SUFFIX,pleasuremore.com
 DOMAIN-SUFFIX,pledgetimes.com
 DOMAIN-SUFFIX,plenamente.cl
+DOMAIN-SUFFIX,plex.com
+DOMAIN-SUFFIX,plex.services
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com
 DOMAIN-SUFFIX,plexearth.com
 DOMAIN-SUFFIX,plexporn.com
 DOMAIN-SUFFIX,plexvip.com
