@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51060
+# Total: 51063
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4421,6 +4421,7 @@ DOMAIN-SUFFIX,app-dynamics.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app-measurement.net
+DOMAIN-SUFFIX,app-pay.jp
 DOMAIN-SUFFIX,app-store.wang
 DOMAIN-SUFFIX,app.airdata.com
 DOMAIN-SUFFIX,app.arukas.io
@@ -37744,6 +37745,7 @@ DOMAIN-SUFFIX,samsungdm.com
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
+DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
@@ -39670,6 +39672,7 @@ DOMAIN-SUFFIX,smartproxy.me
 DOMAIN-SUFFIX,smartschool.be
 DOMAIN-SUFFIX,smartsel.co
 DOMAIN-SUFFIX,smartstream.ne.jp
+DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,smartvalor.com
 DOMAIN-SUFFIX,smartydns.com
 DOMAIN-SUFFIX,smartzach.ddns.net
