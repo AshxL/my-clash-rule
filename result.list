@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51066
+# Total: 51067
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -12033,6 +12033,7 @@ DOMAIN-SUFFIX,cutscenes.net
 DOMAIN-SUFFIX,cutt.ly
 DOMAIN-SUFFIX,cv.com
 DOMAIN-SUFFIX,cv2.xyz
+DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cvpncup.com
 DOMAIN-SUFFIX,cvscs.org
 DOMAIN-SUFFIX,cvws.apple-dns.net
