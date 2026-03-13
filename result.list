@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51068
+# Total: 51072
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -10802,12 +10802,14 @@ DOMAIN-SUFFIX,classicalsource.com
 DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classicrock-radio.de
 DOMAIN-SUFFIX,classymomsex.com
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudia-marie.com
 DOMAIN-SUFFIX,claudiopagliara.it
+DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,clb.org.hk
 DOMAIN-SUFFIX,clco.cc
 DOMAIN-SUFFIX,cldr.unicode.org
@@ -20591,6 +20593,7 @@ DOMAIN-SUFFIX,h2.ns22.ru
 DOMAIN-SUFFIX,h2.slyip.net
 DOMAIN-SUFFIX,h20566.www2.hpe.com
 DOMAIN-SUFFIX,h28.chatnook.com
+DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,h2porn.com
 DOMAIN-SUFFIX,h3.info.tm
 DOMAIN-SUFFIX,h32.reviewcamp.com
@@ -32978,6 +32981,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openbase.com
 DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opencas.io
+DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opencritic.com
