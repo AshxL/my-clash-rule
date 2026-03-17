@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51076
+# Total: 51077
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -47848,6 +47848,7 @@ DOMAIN-SUFFIX,wordgod.com.tw
 DOMAIN-SUFFIX,wordle.com
 DOMAIN-SUFFIX,wordpandit.com
 DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.net
 DOMAIN-SUFFIX,wordpress.org
 DOMAIN-SUFFIX,wordpress.tv
 DOMAIN-SUFFIX,wordrus.ru
