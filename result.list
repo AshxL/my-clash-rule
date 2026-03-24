@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51085
+# Total: 51088
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -14263,6 +14263,7 @@ DOMAIN-SUFFIX,dpool.top
 DOMAIN-SUFFIX,dporn.com
 DOMAIN-SUFFIX,dpp.org.tw
 DOMAIN-SUFFIX,dpr.info
+DOMAIN-SUFFIX,dqd0jw5gvbchn.cloudfront.net
 DOMAIN-SUFFIX,dqjfk9xcvbmj9.cloudfront.net
 DOMAIN-SUFFIX,dqrpb9wgowsf5.cloudfront.net
 DOMAIN-SUFFIX,dr-ming-xia.org
@@ -33025,6 +33026,7 @@ DOMAIN-SUFFIX,openprompt.co
 DOMAIN-SUFFIX,openproxy.co.uk
 DOMAIN-SUFFIX,openproxylist.com
 DOMAIN-SUFFIX,openreality.com
+DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,openrouter.ai
@@ -37577,6 +37579,7 @@ DOMAIN-SUFFIX,s.marvellousmachine.net
 DOMAIN-SUFFIX,s.mble.dk
 DOMAIN-SUFFIX,s.pixfs.net
 DOMAIN-SUFFIX,s.pstatic.net
+DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s.scss.pw
 DOMAIN-SUFFIX,s.sh22.us
 DOMAIN-SUFFIX,s.team
