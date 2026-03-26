@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51097
+# Total: 51105
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -15619,6 +15619,7 @@ DOMAIN-SUFFIX,eq.ccu.edu.tw
 DOMAIN-SUFFIX,equata.com.au
 DOMAIN-SUFFIX,equestfood.com
 DOMAIN-SUFFIX,equinenow.com
+DOMAIN-SUFFIX,equinox.io
 DOMAIN-SUFFIX,equip.org
 DOMAIN-SUFFIX,er-webs.com
 DOMAIN-SUFFIX,erabaru.net
@@ -29046,6 +29047,7 @@ DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,minecraftforge.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,minecratf.com
@@ -30755,6 +30757,7 @@ DOMAIN-SUFFIX,nalandabodhi.org
 DOMAIN-SUFFIX,nalandawest.org
 DOMAIN-SUFFIX,nambuccaguardian.com.au
 DOMAIN-SUFFIX,name.com
+DOMAIN-SUFFIX,namemc.com
 DOMAIN-SUFFIX,namemybeats.com
 DOMAIN-SUFFIX,namethatporn.com
 DOMAIN-SUFFIX,namethatpornad.com
@@ -31412,6 +31415,7 @@ DOMAIN-SUFFIX,nghmaty.site
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 DOMAIN-SUFFIX,nginxconfig.io
+DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,ngrok-free.pizza
@@ -33085,6 +33089,7 @@ DOMAIN-SUFFIX,opte.org
 DOMAIN-SUFFIX,optica.org
 DOMAIN-SUFFIX,opticore.com
 DOMAIN-SUFFIX,opticsforthecloud.net
+DOMAIN-SUFFIX,optifine.net
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,optionfair.com
@@ -40250,6 +40255,7 @@ DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,spiegel.de
 DOMAIN-SUFFIX,spiegelonline.de
 DOMAIN-SUFFIX,spieletipps.de
+DOMAIN-SUFFIX,spigotmc.org
 DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,spin803.com
 DOMAIN-SUFFIX,spin808.com
@@ -41940,6 +41946,8 @@ DOMAIN-SUFFIX,telecom-cafe.com
 DOMAIN-SUFFIX,telecomspace.com
 DOMAIN-SUFFIX,teledyne-dalsa-test.myshopify.com
 DOMAIN-SUFFIX,telefoniasu.com
+DOMAIN-SUFFIX,telega.info
+DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,telega.one
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram-cdn.org
