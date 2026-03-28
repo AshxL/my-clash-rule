@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51108
+# Total: 51107
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -37593,7 +37593,6 @@ DOMAIN-SUFFIX,s.marvellousmachine.net
 DOMAIN-SUFFIX,s.mble.dk
 DOMAIN-SUFFIX,s.pixfs.net
 DOMAIN-SUFFIX,s.pstatic.net
-DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s.scss.pw
 DOMAIN-SUFFIX,s.sh22.us
 DOMAIN-SUFFIX,s.team
