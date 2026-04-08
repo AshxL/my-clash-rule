@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51345
+# Total: 51343
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -17278,7 +17278,6 @@ DOMAIN-SUFFIX,fir3beast.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
 DOMAIN-SUFFIX,firearmsworld.net
 DOMAIN-SUFFIX,fireball.com
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.google.com
 DOMAIN-SUFFIX,firebase.googleapis.com
@@ -44983,7 +44982,6 @@ DOMAIN-SUFFIX,upayhalf.com
 DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,upbt.net
 DOMAIN-SUFFIX,upcdc.taiwantrade.com.tw
-DOMAIN-SUFFIX,update.crashlytics.com
 DOMAIN-SUFFIX,update.electronjs.org
 DOMAIN-SUFFIX,update.mdm.mil.tw
 DOMAIN-SUFFIX,updates-http.cdn-apple.com
