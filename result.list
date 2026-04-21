@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51891
+# Total: 51893
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -29580,6 +29580,7 @@ DOMAIN-SUFFIX,minilondon.co
 DOMAIN-SUFFIX,minimarkham.ca
 DOMAIN-SUFFIX,minimarkham.com
 DOMAIN-SUFFIX,minimax.com.tw
+DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,minimoncton.ca
 DOMAIN-SUFFIX,minimoncton.com
 DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -38637,6 +38638,7 @@ DOMAIN-SUFFIX,scooptw.com
 DOMAIN-SUFFIX,scope.co.id
 DOMAIN-SUFFIX,scopemarkets.com
 DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,scoreclassics.com
 DOMAIN-SUFFIX,scorediscounts.club
 DOMAIN-SUFFIX,scoregroup.com
