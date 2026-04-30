@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51902
+# Total: 51903
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -43641,6 +43641,7 @@ DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,tmc6425.blogspot.hk
 DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,tmdb-web-image-prod.b-cdn.net
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tmdfish.com
 DOMAIN-SUFFIX,tmeets.net
