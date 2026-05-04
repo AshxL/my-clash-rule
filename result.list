@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51903
+# Total: 51904
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -13641,6 +13641,7 @@ DOMAIN-SUFFIX,digitalhub.com
 DOMAIN-SUFFIX,digitalid.ch
 DOMAIN-SUFFIX,digitalmicroscope.cn
 DOMAIN-SUFFIX,digitalnomadsproject.org
+DOMAIN-SUFFIX,digitalocean-ui.com
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,digitalpack.com
