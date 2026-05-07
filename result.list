@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 51997
+# Total: 52042
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -2612,6 +2612,7 @@ DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,acetop.com
 DOMAIN-SUFFIX,acevpn.com
 DOMAIN-SUFFIX,acg-moe.com
+DOMAIN-SUFFIX,acg.mn
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acg18.me
 DOMAIN-SUFFIX,acg18.org
@@ -4262,6 +4263,7 @@ DOMAIN-SUFFIX,anypornsexxx.com
 DOMAIN-SUFFIX,anyproxy.io
 DOMAIN-SUFFIX,anysex.com
 DOMAIN-SUFFIX,anyshemale.com
+DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,anyxxx.me
 DOMAIN-SUFFIX,anyxxx.pro
 DOMAIN-SUFFIX,anyxxx.tv
@@ -7592,6 +7594,7 @@ DOMAIN-SUFFIX,blazingseollc.com
 DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,blbg.com.tw
 DOMAIN-SUFFIX,bldaily.com
+DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,blender.org
 DOMAIN-SUFFIX,blessed.org.uk
 DOMAIN-SUFFIX,blessinfo.com.br
@@ -9388,6 +9391,7 @@ DOMAIN-SUFFIX,calgon.tv
 DOMAIN-SUFFIX,calgoncarbon-china.com
 DOMAIN-SUFFIX,calgoncarbon.com
 DOMAIN-SUFFIX,calgonit.com
+DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,calidad.com
 DOMAIN-SUFFIX,california18.com
 DOMAIN-SUFFIX,call-3u8633.com
@@ -11631,7 +11635,10 @@ DOMAIN-SUFFIX,cootamundraherald.com.au
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot-workspace.githubnext.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,copower.com.tw
 DOMAIN-SUFFIX,copp.gg
 DOMAIN-SUFFIX,coppercrowband.com
@@ -19676,6 +19683,11 @@ DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github-api.arkoselabs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-repository-file-5c1aeb.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-repository-image-32fea6.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
@@ -21796,6 +21808,7 @@ DOMAIN-SUFFIX,hitutor.com.tw
 DOMAIN-SUFFIX,hitv.amtb.tw
 DOMAIN-SUFFIX,hitxhot.com
 DOMAIN-SUFFIX,hive-engine.com
+DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,hive.io
 DOMAIN-SUFFIX,hiveon.net
 DOMAIN-SUFFIX,hiwannz.com
@@ -23058,6 +23071,7 @@ DOMAIN-SUFFIX,icams.com
 DOMAIN-SUFFIX,icanhazchat.com
 DOMAIN-SUFFIX,icashpassport.com.mx
 DOMAIN-SUFFIX,icbio.com.tw
+DOMAIN-SUFFIX,iccf.com
 DOMAIN-SUFFIX,iccsolutions.com
 DOMAIN-SUFFIX,icdsoft.com.hk
 DOMAIN-SUFFIX,ice-gay.com
@@ -23834,6 +23848,7 @@ DOMAIN-SUFFIX,informe.com
 DOMAIN-SUFFIX,informer.com
 DOMAIN-SUFFIX,informnny.com
 DOMAIN-SUFFIX,informs.org
+DOMAIN-SUFFIX,infosec.exchange
 DOMAIN-SUFFIX,infotel.ca
 DOMAIN-SUFFIX,infotimes.com.tw
 DOMAIN-SUFFIX,infotmj.com
@@ -29866,6 +29881,7 @@ DOMAIN-SUFFIX,mjhuang.com
 DOMAIN-SUFFIX,mji.rip
 DOMAIN-SUFFIX,mjib.gov.tw
 DOMAIN-SUFFIX,mjj.rip
+DOMAIN-SUFFIX,mjj.today
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,mjv-art.org
 DOMAIN-SUFFIX,mjv001.com
@@ -31814,6 +31830,7 @@ DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,nfsc.global
+DOMAIN-SUFFIX,nfsc.press
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfscofficial.com
 DOMAIN-SUFFIX,nfsqc100.com
@@ -33247,6 +33264,7 @@ DOMAIN-SUFFIX,onbeatsbydresale.com
 DOMAIN-SUFFIX,oncars.in
 DOMAIN-SUFFIX,onceok.com.tw
 DOMAIN-SUFFIX,ondaxv.xyz
+DOMAIN-SUFFIX,ondigitalocean.com
 DOMAIN-SUFFIX,one-news.net
 DOMAIN-SUFFIX,one-tvshows.eu
 DOMAIN-SUFFIX,one.one
@@ -33491,6 +33509,7 @@ DOMAIN-SUFFIX,opensocietyfoundations.org
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,opensourceinsight.dev
 DOMAIN-SUFFIX,opensourceinsights.dev
+DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,opensports.ca
 DOMAIN-SUFFIX,openssl.org
 DOMAIN-SUFFIX,openstreetmap.com
@@ -36131,6 +36150,26 @@ DOMAIN-SUFFIX,prodhub.com
 DOMAIN-SUFFIX,prodrive-japan.com
 DOMAIN-SUFFIX,product.co.jp
 DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,productionresultssa0.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa1.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa10.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa11.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa12.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa13.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa14.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa15.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa16.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa17.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa18.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa19.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa2.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa3.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa4.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa5.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa6.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa7.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa8.blob.core.windows.net
+DOMAIN-SUFFIX,productionresultssa9.blob.core.windows.net
 DOMAIN-SUFFIX,productpay.com
 DOMAIN-SUFFIX,profession.hu
 DOMAIN-SUFFIX,profilemaster.com
@@ -41837,6 +41876,7 @@ DOMAIN-SUFFIX,support1.shqwdq.cn
 DOMAIN-SUFFIX,support2.shqwdq.cn
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,supportjimmylai.com
+DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,suprbay.org
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
@@ -42850,6 +42890,7 @@ DOMAIN-SUFFIX,the-japan-news.com
 DOMAIN-SUFFIX,the-m-festival.com
 DOMAIN-SUFFIX,the-monster-beats.com
 DOMAIN-SUFFIX,the-steelwheel.com
+DOMAIN-SUFFIX,the-sun.com
 DOMAIN-SUFFIX,the-tls.co.uk
 DOMAIN-SUFFIX,the-truths.com
 DOMAIN-SUFFIX,the123d.com
@@ -44886,6 +44927,7 @@ DOMAIN-SUFFIX,twiggit.org
 DOMAIN-SUFFIX,twilightparadox.com
 DOMAIN-SUFFIX,twilightsex.com
 DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,twilio.jp
 DOMAIN-SUFFIX,twilog.org
 DOMAIN-SUFFIX,twimbow.com
 DOMAIN-SUFFIX,twimg.co
@@ -45056,6 +45098,7 @@ DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,tyre-cadcam.com
 DOMAIN-SUFFIX,tyrecadcam.com
 DOMAIN-SUFFIX,tysol.pl
+DOMAIN-SUFFIX,tytch.com
 DOMAIN-SUFFIX,tytng189.com
 DOMAIN-SUFFIX,tytporno.online
 DOMAIN-SUFFIX,tyvpn.com
@@ -45658,10 +45701,12 @@ DOMAIN-SUFFIX,usercenter.firemon.com
 DOMAIN-SUFFIX,usercentrics.eu
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,usercontent.goog
+DOMAIN-SUFFIX,userdrive.org
 DOMAIN-SUFFIX,userproxy.com
 DOMAIN-SUFFIX,userpxt.io
 DOMAIN-SUFFIX,users.skynet.be
 DOMAIN-SUFFIX,userscloud.com
+DOMAIN-SUFFIX,usersdrive.com
 DOMAIN-SUFFIX,usersfiles.com
 DOMAIN-SUFFIX,userstyles.org
 DOMAIN-SUFFIX,usertesting.com
