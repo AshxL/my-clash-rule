@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52044
+# Total: 52047
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -11193,7 +11193,6 @@ DOMAIN-SUFFIX,cn70s.xyz
 DOMAIN-SUFFIX,cna.com
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cnabc.com
-DOMAIN-SUFFIX,cnappinstall.googleadapis.com
 DOMAIN-SUFFIX,cnas.org
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
 DOMAIN-SUFFIX,cnbc.com
@@ -11567,7 +11566,6 @@ DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,contechacademy.com
 DOMAIN-SUFFIX,contem.bz
 DOMAIN-SUFFIX,content.business.hahow.in
-DOMAIN-SUFFIX,content.googleadapis.com
 DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,content.wuala.com
 DOMAIN-SUFFIX,content.xmoxa.com
@@ -14377,7 +14375,6 @@ DOMAIN-SUFFIX,download.com
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,download.dnscrypt.org
 DOMAIN-SUFFIX,download.fosshub.com
-DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,download.speedcat.cc
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,downloadfast.org
@@ -25881,6 +25878,7 @@ DOMAIN-SUFFIX,justtristan.com
 DOMAIN-SUFFIX,justusboys.com
 DOMAIN-SUFFIX,justuseapp.com
 DOMAIN-SUFFIX,justustrannies.com
+DOMAIN-SUFFIX,justveryok.com
 DOMAIN-SUFFIX,justwp.org
 DOMAIN-SUFFIX,justxxxfree.com
 DOMAIN-SUFFIX,juvient.com
@@ -26221,6 +26219,7 @@ DOMAIN-SUFFIX,kevpn.com
 DOMAIN-SUFFIX,kex.com
 DOMAIN-SUFFIX,keybase.io
 DOMAIN-SUFFIX,keybaseapi.com
+DOMAIN-SUFFIX,keyboardmen.com
 DOMAIN-SUFFIX,keycdn.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,keyloom.com
@@ -30151,7 +30150,6 @@ DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monitorchina.org
-DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,monitorware.com
 DOMAIN-SUFFIX,monitrix.net
 DOMAIN-SUFFIX,monkeywerks.net
@@ -33019,7 +33017,15 @@ DOMAIN-SUFFIX,ocztechnology.com
 DOMAIN-SUFFIX,odc.officeapps.live.com
 DOMAIN-SUFFIX,odishabytes.com
 DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklasniki.by
+DOMAIN-SUFFIX,odnoklasniki.ua
+DOMAIN-SUFFIX,odnoklassniki.am
+DOMAIN-SUFFIX,odnoklassniki.by
+DOMAIN-SUFFIX,odnoklassniki.co.ee
+DOMAIN-SUFFIX,odnoklassniki.eu
+DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,odprava.si
 DOMAIN-SUFFIX,odra.com.ar
 DOMAIN-SUFFIX,odu.edu
@@ -36625,7 +36631,6 @@ DOMAIN-SUFFIX,q23855.com
 DOMAIN-SUFFIX,q2uw.33.homeip.net
 DOMAIN-SUFFIX,q5.apsj4.cc
 DOMAIN-SUFFIX,q7c5.com
-DOMAIN-SUFFIX,qagpublic.qatp1.net
 DOMAIN-SUFFIX,qamoe.cyou
 DOMAIN-SUFFIX,qamshy.kz
 DOMAIN-SUFFIX,qanote.com
@@ -36653,7 +36658,6 @@ DOMAIN-SUFFIX,qdm.com.tw
 DOMAIN-SUFFIX,qepdg5g.x.incapdns.net
 DOMAIN-SUFFIX,qg222.com
 DOMAIN-SUFFIX,qg678.com
-DOMAIN-SUFFIX,qgadmin.qcpp1.net
 DOMAIN-SUFFIX,qgirl.com.tw
 DOMAIN-SUFFIX,qhigh.com
 DOMAIN-SUFFIX,qhzsv3s6w.gotdns.ch
@@ -36780,8 +36784,6 @@ DOMAIN-SUFFIX,qualcommventures.com
 DOMAIN-SUFFIX,quality-electronics.com
 DOMAIN-SUFFIX,qualphone.com
 DOMAIN-SUFFIX,qualtric.com
-DOMAIN-SUFFIX,qualysapi.qatp1.net
-DOMAIN-SUFFIX,qualysguard.qpdp1.net
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
 DOMAIN-SUFFIX,quannengshen.org
@@ -36923,6 +36925,7 @@ DOMAIN-SUFFIX,ra5312.com
 DOMAIN-SUFFIX,ra8945.com
 DOMAIN-SUFFIX,raaga.com
 DOMAIN-SUFFIX,rabb.it
+DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabbithole.gg
 DOMAIN-SUFFIX,rabbitqueen.net
 DOMAIN-SUFFIX,rabbitscams.com
@@ -38495,6 +38498,7 @@ DOMAIN-SUFFIX,say-move.org
 DOMAIN-SUFFIX,say2.info
 DOMAIN-SUFFIX,sayaka.moe
 DOMAIN-SUFFIX,saycheese.hk
+DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,saynow.com
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,sb-mobile.jp
@@ -38572,7 +38576,6 @@ DOMAIN-SUFFIX,scan.eu.cloud.papercut.com
 DOMAIN-SUFFIX,scan.us.cloud.papercut.com
 DOMAIN-SUFFIX,scandalplanet.com
 DOMAIN-SUFFIX,scanlover.com
-DOMAIN-SUFFIX,scanservice1.qcpp1.net
 DOMAIN-SUFFIX,scartel.ru
 DOMAIN-SUFFIX,scasino.com
 DOMAIN-SUFFIX,scat-enema.com
