@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52141
+# Total: 52142
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4938,6 +4938,7 @@ DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.fr
 DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinux.page
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,archsocks.com
