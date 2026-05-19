@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52143
+# Total: 52163
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -1543,6 +1543,7 @@ DOMAIN-SUFFIX,569js.com
 DOMAIN-SUFFIX,56cun04.jigsy.com
 DOMAIN-SUFFIX,57.from-ga.com
 DOMAIN-SUFFIX,57138.com
+DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,575bet.com
 DOMAIN-SUFFIX,57686.com
 DOMAIN-SUFFIX,577.instanthq.com
@@ -26288,6 +26289,7 @@ DOMAIN-SUFFIX,kgdh.net
 DOMAIN-SUFFIX,kgi.com.tw
 DOMAIN-SUFFIX,kgieworld.com
 DOMAIN-SUFFIX,kgieworld.com.tw
+DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kgithub.com
 DOMAIN-SUFFIX,kgslb.com
 DOMAIN-SUFFIX,kgw.com
@@ -26477,6 +26479,7 @@ DOMAIN-SUFFIX,kitty.su
 DOMAIN-SUFFIX,kius.com.tw
 DOMAIN-SUFFIX,kiva.org
 DOMAIN-SUFFIX,kiwi.com.tw
+DOMAIN-SUFFIX,kiwi.jp
 DOMAIN-SUFFIX,kiwi.kz
 DOMAIN-SUFFIX,kiwi69.com
 DOMAIN-SUFFIX,kiwibrowser.com
@@ -26583,6 +26586,20 @@ DOMAIN-SUFFIX,kompozer.net
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
+DOMAIN-SUFFIX,konami
+DOMAIN-SUFFIX,konami-igaming.online
+DOMAIN-SUFFIX,konami.co.jp
+DOMAIN-SUFFIX,konami.com
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,konami.org
+DOMAIN-SUFFIX,konamicrossmedia.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamionline.com
+DOMAIN-SUFFIX,konamiopen.jp
+DOMAIN-SUFFIX,konamisportsclub.jp
+DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,kone.com
 DOMAIN-SUFFIX,kongjian888.com
 DOMAIN-SUFFIX,kontenislam.com
@@ -37628,6 +37645,8 @@ DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
 DOMAIN-SUFFIX,researchmfg.com
 DOMAIN-SUFFIX,reseed.onion.im
+DOMAIN-SUFFIX,resella.jp
+DOMAIN-SUFFIX,resellablue.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,resistchina.org
 DOMAIN-SUFFIX,resistenciacamponesa.com
@@ -51340,6 +51359,7 @@ DOMAIN-SUFFIX,yuebet.com
 DOMAIN-SUFFIX,yuenuge113.xyz
 DOMAIN-SUFFIX,yuenuge18.cc
 DOMAIN-SUFFIX,yuetwanlauseng.com
+DOMAIN-SUFFIX,yugioh-card.com
 DOMAIN-SUFFIX,yuhao-haoying.com.tw
 DOMAIN-SUFFIX,yuhaotech.blogspot.hk
 DOMAIN-SUFFIX,yuhsunchung.com
