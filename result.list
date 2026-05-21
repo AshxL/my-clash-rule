@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52170
+# Total: 52177
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -18893,6 +18893,7 @@ DOMAIN-SUFFIX,g-truc.net
 DOMAIN-SUFFIX,g-tun.com
 DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,g-xxxhub.com
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.alexyang.me
 DOMAIN-SUFFIX,g.bestirnte.com
 DOMAIN-SUFFIX,g.co
@@ -30454,11 +30455,13 @@ DOMAIN-SUFFIX,moyuvpn.net
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozhatu.com
 DOMAIN-SUFFIX,mozhua2.com
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.com.tw
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,mozoo.com
 DOMAIN-SUFFIX,moztw.org
 DOMAIN-SUFFIX,mp.miaopu.xyz
@@ -31187,6 +31190,7 @@ DOMAIN-SUFFIX,myz.info
 DOMAIN-SUFFIX,mz.mine.bz
 DOMAIN-SUFFIX,mzc23.com
 DOMAIN-SUFFIX,mzed.com
+DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,mzxwz.com
 DOMAIN-SUFFIX,n-tv.de
@@ -37183,6 +37187,7 @@ DOMAIN-SUFFIX,rapetube.me
 DOMAIN-SUFFIX,rapetube.tv
 DOMAIN-SUFFIX,rapexxx.com
 DOMAIN-SUFFIX,rapgenius.com
+DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,rapidchemical.com
 DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,rapidmoviez.com
@@ -40822,6 +40827,7 @@ DOMAIN-SUFFIX,sostibet.com
 DOMAIN-SUFFIX,sostibet.org
 DOMAIN-SUFFIX,sothebys.com
 DOMAIN-SUFFIX,sotozenriga.lv
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,sou-tong.org
 DOMAIN-SUFFIX,soubory.com
 DOMAIN-SUFFIX,souka.xyz
@@ -42465,6 +42471,7 @@ DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,tapfog.io
 DOMAIN-SUFFIX,tapi.pureapk.com
+DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,taptotokyo.com
