@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52212
+# Total: 52217
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -30485,6 +30485,7 @@ DOMAIN-SUFFIX,moyuvpn.net
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozhatu.com
 DOMAIN-SUFFIX,mozhua2.com
+DOMAIN-SUFFIX,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.com.tw
@@ -49624,6 +49625,7 @@ DOMAIN-SUFFIX,xhamster14.com
 DOMAIN-SUFFIX,xhamster18.com
 DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamster19.com
+DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamster24.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamster48.com
@@ -49634,9 +49636,12 @@ DOMAIN-SUFFIX,xhamstermania.com
 DOMAIN-SUFFIX,xhamsterpremium.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,xhdporn.org
+DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhot.pro
+DOMAIN-SUFFIX,xhpingcdn.com
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,xhpr.jaw.etowns.org
+DOMAIN-SUFFIX,xhreal5.com
 DOMAIN-SUFFIX,xhub.tv
 DOMAIN-SUFFIX,xhuom.com
 DOMAIN-SUFFIX,xi.com
