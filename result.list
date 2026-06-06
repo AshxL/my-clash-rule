@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52393
+# Total: 52396
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -10939,6 +10939,7 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudia-marie.com
 DOMAIN-SUFFIX,claudiopagliara.it
@@ -42223,6 +42224,7 @@ DOMAIN-SUFFIX,suxib.com
 DOMAIN-SUFFIX,suxiebu.com
 DOMAIN-SUFFIX,suyangg.com
 DOMAIN-SUFFIX,suydsmkejnes.629659.xyz
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,suzuri.jp
 DOMAIN-SUFFIX,sv.domain888.pw
 DOMAIN-SUFFIX,sv.freepac.pw
@@ -49458,6 +49460,7 @@ DOMAIN-SUFFIX,www.moztw.org
 DOMAIN-SUFFIX,www.oxid.it
 DOMAIN-SUFFIX,www.powerpointninja.com
 DOMAIN-SUFFIX,www.pxcc.com
+DOMAIN-SUFFIX,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,www.s4miniarchive.com
 DOMAIN-SUFFIX,www.sb
 DOMAIN-SUFFIX,www.tablesgenerator.com
