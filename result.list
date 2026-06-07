@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52396
+# Total: 52440
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -3943,6 +3943,7 @@ DOMAIN-SUFFIX,amcplus.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
 DOMAIN-SUFFIX,amdigital.co.uk
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,amebame.com
@@ -8983,6 +8984,7 @@ DOMAIN-SUFFIX,budnaera.com
 DOMAIN-SUFFIX,buenoyqueesperabas.blogspot.com.es
 DOMAIN-SUFFIX,buerstaedter-zeitung.de
 DOMAIN-SUFFIX,buffered.com
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,buhidoh.net
 DOMAIN-SUFFIX,buicha.social
@@ -9893,6 +9895,7 @@ DOMAIN-SUFFIX,cciesecuritylabs.com
 DOMAIN-SUFFIX,ccievoicelabs.com
 DOMAIN-SUFFIX,ccim.org
 DOMAIN-SUFFIX,ccks.top
+DOMAIN-SUFFIX,ccleaner.com
 DOMAIN-SUFFIX,cclife.ca
 DOMAIN-SUFFIX,cclife.org
 DOMAIN-SUFFIX,cclifefl.org
@@ -10867,6 +10870,7 @@ DOMAIN-SUFFIX,citystudent.ca
 DOMAIN-SUFFIX,citytalk.tw
 DOMAIN-SUFFIX,citytourgirls.com
 DOMAIN-SUFFIX,citytv-74bf2.firebaseio.com
+DOMAIN-SUFFIX,cityu.hk
 DOMAIN-SUFFIX,civic.com
 DOMAIN-SUFFIX,civicparty.hk
 DOMAIN-SUFFIX,civicracia.blogspot.com.es
@@ -12100,6 +12104,7 @@ DOMAIN-SUFFIX,cuebic.biz
 DOMAIN-SUFFIX,cuevana.tv
 DOMAIN-SUFFIX,cuffiesaldi.com
 DOMAIN-SUFFIX,cuhk.edu.hk
+DOMAIN-SUFFIX,cuhk.hk
 DOMAIN-SUFFIX,cuhkacs.org
 DOMAIN-SUFFIX,cuies.com
 DOMAIN-SUFFIX,cuihua.org
@@ -15366,12 +15371,14 @@ DOMAIN-SUFFIX,edpowers.com
 DOMAIN-SUFFIX,edresults.org
 DOMAIN-SUFFIX,edscchinatour2015.blogspot.com.au
 DOMAIN-SUFFIX,edu-research.org
+DOMAIN-SUFFIX,edu.hk
 DOMAIN-SUFFIX,edu.ir
 DOMAIN-SUFFIX,edu.tinkoff.ru
 DOMAIN-SUFFIX,edubridge.com
 DOMAIN-SUFFIX,education-cadcam.com
 DOMAIN-SUFFIX,education.tbank.ru
 DOMAIN-SUFFIX,eduelects.com
+DOMAIN-SUFFIX,eduhk.hk
 DOMAIN-SUFFIX,eduplus.hk
 DOMAIN-SUFFIX,edupro.org
 DOMAIN-SUFFIX,eduseeds.com
@@ -17351,6 +17358,7 @@ DOMAIN-SUFFIX,filesmonster.vip
 DOMAIN-SUFFIX,filesnack.com
 DOMAIN-SUFFIX,filesor.com
 DOMAIN-SUFFIX,filestack.com
+DOMAIN-SUFFIX,filezilla-project.org
 DOMAIN-SUFFIX,filipino-music.net
 DOMAIN-SUFFIX,fillthesquare.org
 DOMAIN-SUFFIX,film-grab.com
@@ -19767,6 +19775,7 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,gitcdn.link
 DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitgud.io
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github-api.arkoselabs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
@@ -21225,6 +21234,7 @@ DOMAIN-SUFFIX,hayvip.com
 DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,hazlitt.net
 DOMAIN-SUFFIX,hazymoonsangha.com
+DOMAIN-SUFFIX,hb.imgix.net
 DOMAIN-SUFFIX,hb528.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbawmxnzyjck.629659.xyz
@@ -21904,6 +21914,7 @@ DOMAIN-SUFFIX,hive-engine.com
 DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,hive.io
 DOMAIN-SUFFIX,hiveon.net
+DOMAIN-SUFFIX,hivepress.io
 DOMAIN-SUFFIX,hiwannz.com
 DOMAIN-SUFFIX,hiweb.himart.co.kr
 DOMAIN-SUFFIX,hiwifi.com
@@ -21983,6 +21994,7 @@ DOMAIN-SUFFIX,hkbn.net
 DOMAIN-SUFFIX,hkbnes.net
 DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkbts.edu.hk
+DOMAIN-SUFFIX,hkbu.hk
 DOMAIN-SUFFIX,hkcah-np.blogspot.hk
 DOMAIN-SUFFIX,hkchronicles.com
 DOMAIN-SUFFIX,hkchurch.org
@@ -22074,6 +22086,7 @@ DOMAIN-SUFFIX,hkteducation.com
 DOMAIN-SUFFIX,hktpremier.com
 DOMAIN-SUFFIX,hktshop.com
 DOMAIN-SUFFIX,hku.hk
+DOMAIN-SUFFIX,hkust.hk
 DOMAIN-SUFFIX,hkusu.net
 DOMAIN-SUFFIX,hkvaliant.org
 DOMAIN-SUFFIX,hkvwet.com
@@ -26952,6 +26965,7 @@ DOMAIN-SUFFIX,lanew.com.tw
 DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,langsuirs.com
 DOMAIN-SUFFIX,languagelog.ldc.upenn.edu
+DOMAIN-SUFFIX,languagetool.org
 DOMAIN-SUFFIX,lanik.us
 DOMAIN-SUFFIX,lanmdh.net
 DOMAIN-SUFFIX,lanniser-ylo.shop
@@ -30463,6 +30477,7 @@ DOMAIN-SUFFIX,motionpictureser.com
 DOMAIN-SUFFIX,motiyun.com
 DOMAIN-SUFFIX,moto.com
 DOMAIN-SUFFIX,motolia.com
+DOMAIN-SUFFIX,motopress.com
 DOMAIN-SUFFIX,motor0.net
 DOMAIN-SUFFIX,motor4ik.ru
 DOMAIN-SUFFIX,motorcycle.com
@@ -30763,6 +30778,7 @@ DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,mswe1.org
 DOMAIN-SUFFIX,msy.com.tw
+DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,mt.co.kr
 DOMAIN-SUFFIX,mt.de
 DOMAIN-SUFFIX,mt.lv
@@ -33122,6 +33138,7 @@ DOMAIN-SUFFIX,o5.gg
 DOMAIN-SUFFIX,o8ky.14.iamallama.com
 DOMAIN-SUFFIX,oac.cdlib.org
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oanda.cn
 DOMAIN-SUFFIX,oanda.com
@@ -35439,6 +35456,7 @@ DOMAIN-SUFFIX,polymerhk.com
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,polynomad.com
 DOMAIN-SUFFIX,polysolve.com
+DOMAIN-SUFFIX,polyu.hk
 DOMAIN-SUFFIX,pom.xxxy.biz
 DOMAIN-SUFFIX,pomf.cat
 DOMAIN-SUFFIX,pomf.io
@@ -36922,6 +36940,7 @@ DOMAIN-SUFFIX,qmusic.me
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qnews.com.au
 DOMAIN-SUFFIX,qobuz.com
+DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,qombol.com
 DOMAIN-SUFFIX,qoo-app.com
 DOMAIN-SUFFIX,qoo10.jp
@@ -49210,6 +49229,7 @@ DOMAIN-SUFFIX,wpc.00ab.edgecastcdn.net
 DOMAIN-SUFFIX,wpc.a8b5.edgecastcdn.net
 DOMAIN-SUFFIX,wpewebkit.org
 DOMAIN-SUFFIX,wplace.live
+DOMAIN-SUFFIX,wpmailsmtp.com
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,wpt.fyi
 DOMAIN-SUFFIX,wpvip.com
@@ -50100,10 +50120,16 @@ DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
 DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
+DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
+DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
+DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
+DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--flw351e
 DOMAIN-SUFFIX,xn--flw351e.com
 DOMAIN-SUFFIX,xn--flw351e.ml
+DOMAIN-SUFFIX,xn--gdt08a.hk
+DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
 DOMAIN-SUFFIX,xn--ggle-55da.com
 DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
 DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
@@ -50130,11 +50156,23 @@ DOMAIN-SUFFIX,xn--mesr8b36x.com
 DOMAIN-SUFFIX,xn--mesv7f5toqlp.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--mtswd61ejxq.com
+DOMAIN-SUFFIX,xn--mxtq18a.hk
+DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--noss43i.com
 DOMAIN-SUFFIX,xn--oiq.cc
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
+DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
+DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
+DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
+DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
+DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
+DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 DOMAIN-SUFFIX,xn--pxtr7m5ny.com
 DOMAIN-SUFFIX,xn--q41am8x.com
 DOMAIN-SUFFIX,xn--qcka1pmc
@@ -50149,8 +50187,14 @@ DOMAIN-SUFFIX,xn--tkry91n.com
 DOMAIN-SUFFIX,xn--u2u927b.com
 DOMAIN-SUFFIX,xn--ubt498knmf.com
 DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
+DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
 DOMAIN-SUFFIX,xn--urs05q.jp
 DOMAIN-SUFFIX,xn--vjqt50bik1b.com
+DOMAIN-SUFFIX,xn--wcv22d.hk
+DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
+DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
+DOMAIN-SUFFIX,xn--wcvs22d1m.hk
+DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
 DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.net
 DOMAIN-SUFFIX,xn--xsq421m.com
