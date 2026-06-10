@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52441
+# Total: 52446
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -23947,6 +23947,7 @@ DOMAIN-SUFFIX,infojustice.org
 DOMAIN-SUFFIX,infolibre.es
 DOMAIN-SUFFIX,infolinker.com.tw
 DOMAIN-SUFFIX,infomaniak.ch
+DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,infoq.jp
 DOMAIN-SUFFIX,infoqube.biz
 DOMAIN-SUFFIX,inform.unifi.thetooorg.net
@@ -33057,6 +33058,7 @@ DOMAIN-SUFFIX,nxkys.com
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,nxtdig.com.hk
 DOMAIN-SUFFIX,nxtdig.com.tw
+DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,ny.stgloballink.com
 DOMAIN-SUFFIX,ny666.vip
 DOMAIN-SUFFIX,nya.one
@@ -45764,6 +45766,9 @@ DOMAIN-SUFFIX,underwoodammo.com
 DOMAIN-SUFFIX,undofilters.com
 DOMAIN-SUFFIX,unexpecteddomainnamepro.xyz
 DOMAIN-SUFFIX,unexplained-mysteries.com
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,unfile.me
 DOMAIN-SUFFIX,unfiltered.adguard-dns.com
 DOMAIN-SUFFIX,unfiltered.news
