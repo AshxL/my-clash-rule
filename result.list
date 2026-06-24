@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52627
+# Total: 52638
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -3673,6 +3673,7 @@ DOMAIN-SUFFIX,allunblocked.com
 DOMAIN-SUFFIX,allxxxhd.com
 DOMAIN-SUFFIX,ally.com
 DOMAIN-SUFFIX,almaburton.com
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,almanar.com.lb
 DOMAIN-SUFFIX,almasdarnews.com
 DOMAIN-SUFFIX,almendron.com
@@ -9115,6 +9116,7 @@ DOMAIN-SUFFIX,bustyporn.com
 DOMAIN-SUFFIX,bustysammieblack.com
 DOMAIN-SUFFIX,bustyvixen.net
 DOMAIN-SUFFIX,busu.org
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,busytrade.com
 DOMAIN-SUFFIX,butterfly.idv.tw
 DOMAIN-SUFFIX,buugaa.com
@@ -16286,6 +16288,7 @@ DOMAIN-SUFFIX,exotic-ghana.com
 DOMAIN-SUFFIX,exotic4k.com
 DOMAIN-SUFFIX,exoticindia.com
 DOMAIN-SUFFIX,exoticuganda.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,exp5redir5.com
 DOMAIN-SUFFIX,expatshield.com
 DOMAIN-SUFFIX,expatsurfer.co.uk
@@ -19867,6 +19870,7 @@ DOMAIN-SUFFIX,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -27506,6 +27510,7 @@ DOMAIN-SUFFIX,life.com.tw
 DOMAIN-SUFFIX,life.different.idv.tw
 DOMAIN-SUFFIX,life.writings.io
 DOMAIN-SUFFIX,life8.com.tw
+DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,lifechanyuan.org
 DOMAIN-SUFFIX,lifechurch.com
 DOMAIN-SUFFIX,lifechurch.tv
@@ -28639,6 +28644,7 @@ DOMAIN-SUFFIX,maniash.com
 DOMAIN-SUFFIX,manicur4ik.ru
 DOMAIN-SUFFIX,manilastandard.net
 DOMAIN-SUFFIX,manisteenews.com
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,manji-group.com
 DOMAIN-SUFFIX,manjongmari.blogspot.hk
 DOMAIN-SUFFIX,mankind.co.uk
@@ -38230,6 +38236,7 @@ DOMAIN-SUFFIX,rocksextube.com
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rockwork.ch
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,rocmgov.org
 DOMAIN-SUFFIX,rogoff.xyz
 DOMAIN-SUFFIX,roguefoundry.com
@@ -41414,6 +41421,7 @@ DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spox.com
 DOMAIN-SUFFIX,spp.com.tw
@@ -47934,9 +47942,12 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vscode.search.windows.net
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,vsemayki.ru
 DOMAIN-SUFFIX,vsemrabota.ru
 DOMAIN-SUFFIX,vsex.in
