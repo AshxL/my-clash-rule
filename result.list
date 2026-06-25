@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52638
+# Total: 52639
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -19564,6 +19564,7 @@ DOMAIN-SUFFIX,gestionpluspymes.com
 DOMAIN-SUFFIX,get-express-vpn.com
 DOMAIN-SUFFIX,get-hot.com
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,get.dashlane.com
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.fabric.io
