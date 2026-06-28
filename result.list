@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52639
+# Total: 52652
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -3315,6 +3315,7 @@ DOMAIN-SUFFIX,airtm.com
 DOMAIN-SUFFIX,airtunes.com
 DOMAIN-SUFFIX,airtunes.info
 DOMAIN-SUFFIX,airtunes.net
+DOMAIN-SUFFIX,airuniversity.af.edu
 DOMAIN-SUFFIX,airvpn.org
 DOMAIN-SUFFIX,airwatchexpress.com
 DOMAIN-SUFFIX,airwatchqa.com
@@ -4778,6 +4779,7 @@ DOMAIN-SUFFIX,applepremiumresellers.com.au
 DOMAIN-SUFFIX,applereach.com
 DOMAIN-SUFFIX,applereach.net
 DOMAIN-SUFFIX,apples-msk.ru
+DOMAIN-SUFFIX,appleschoolcontent.com
 DOMAIN-SUFFIX,applescreensavers.com
 DOMAIN-SUFFIX,applescript.info
 DOMAIN-SUFFIX,appleshare.info
@@ -4890,6 +4892,7 @@ DOMAIN-SUFFIX,apuestasdemurcia.es
 DOMAIN-SUFFIX,apulnion.com
 DOMAIN-SUFFIX,apx99.com
 DOMAIN-SUFFIX,apyle.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,aqdlt.net
 DOMAIN-SUFFIX,aqi.aqicn.org
 DOMAIN-SUFFIX,aqicn.org
@@ -5883,6 +5886,7 @@ DOMAIN-SUFFIX,axioncomputing.com
 DOMAIN-SUFFIX,axiontrade.net
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,axisbank.com
+DOMAIN-SUFFIX,axm-usercontent-apple.com
 DOMAIN-SUFFIX,axureformac.com
 DOMAIN-SUFFIX,axvpn.com
 DOMAIN-SUFFIX,axxxonline.com
@@ -12898,6 +12902,8 @@ DOMAIN-SUFFIX,dancingbear.com
 DOMAIN-SUFFIX,danco-tek.com
 DOMAIN-SUFFIX,dandad.org
 DOMAIN-SUFFIX,dandalinvoa.com
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,dandanzan.com
 DOMAIN-SUFFIX,dandanzan.net
@@ -22153,6 +22159,7 @@ DOMAIN-SUFFIX,hklft.com
 DOMAIN-SUFFIX,hklts.org.hk
 DOMAIN-SUFFIX,hkmap.live
 DOMAIN-SUFFIX,hknotebook-home.moss.com.hk
+DOMAIN-SUFFIX,hkong.hk
 DOMAIN-SUFFIX,hkood.com
 DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,hkosa.org
@@ -29439,6 +29446,7 @@ DOMAIN-SUFFIX,mhra.org.uk
 DOMAIN-SUFFIX,mhradio.org
 DOMAIN-SUFFIX,mhshosting.com
 DOMAIN-SUFFIX,mht.com.tw
+DOMAIN-SUFFIX,mhwindow.org
 DOMAIN-SUFFIX,mi-go.com.tw
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,mi.mashiro.site
@@ -34697,6 +34705,7 @@ DOMAIN-SUFFIX,pccwglobal.com
 DOMAIN-SUFFIX,pccwsolutions.com
 DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pcgamer.com
+DOMAIN-SUFFIX,pcgamesn.com
 DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pchome.net
@@ -41262,6 +41271,7 @@ DOMAIN-SUFFIX,spaans.si
 DOMAIN-SUFFIX,spaceboop.com
 DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
+DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spaceline.bg
 DOMAIN-SUFFIX,spacely.com.au
 DOMAIN-SUFFIX,spacemail.com
@@ -42351,6 +42361,7 @@ DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,suprbay.org
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
+DOMAIN-SUFFIX,supremecourt.gov
 DOMAIN-SUFFIX,suprememastertv.com
 DOMAIN-SUFFIX,sur.ly
 DOMAIN-SUFFIX,sur24.com.ar
@@ -44824,6 +44835,7 @@ DOMAIN-SUFFIX,tripadvisor.com.tw
 DOMAIN-SUFFIX,tripcard.pages.dev
 DOMAIN-SUFFIX,triper.com.tw
 DOMAIN-SUFFIX,tripnotice.com
+DOMAIN-SUFFIX,tripo3d.ai
 DOMAIN-SUFFIX,tripolis.com
 DOMAIN-SUFFIX,trippin.ca
 DOMAIN-SUFFIX,tripservice.cl
@@ -45529,6 +45541,7 @@ DOMAIN-SUFFIX,twse.com.tw
 DOMAIN-SUFFIX,twsextop.com
 DOMAIN-SUFFIX,twskype.com
 DOMAIN-SUFFIX,twsoul.com
+DOMAIN-SUFFIX,twstalker.com
 DOMAIN-SUFFIX,twstar.net
 DOMAIN-SUFFIX,twstay.com
 DOMAIN-SUFFIX,twt.funami.tech
