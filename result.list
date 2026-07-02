@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52652
+# Total: 52662
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -2602,6 +2602,7 @@ DOMAIN-SUFFIX,accounts.mxroute.com
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,accv.es
 DOMAIN-SUFFIX,acd.com.au
+DOMAIN-SUFFIX,acd89244c803f7181.awsglobalaccelerator.com
 DOMAIN-SUFFIX,acdocs.com
 DOMAIN-SUFFIX,ace.io
 DOMAIN-SUFFIX,acebooik.com
@@ -3038,6 +3039,7 @@ DOMAIN-SUFFIX,aetoscg.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,aexlink.com
 DOMAIN-SUFFIX,af.mil
+DOMAIN-SUFFIX,afa7f374f51cc8991.awsglobalaccelerator.com
 DOMAIN-SUFFIX,afantibbs.com
 DOMAIN-SUFFIX,afappyending.com
 DOMAIN-SUFFIX,afcinc.org
@@ -7634,6 +7636,7 @@ DOMAIN-SUFFIX,blackwell.co.uk
 DOMAIN-SUFFIX,blackwells.co.uk
 DOMAIN-SUFFIX,blade-master-hk.blogspot.hk
 DOMAIN-SUFFIX,blakeliuhk.blogspot.hk
+DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,blaoshi.cc
 DOMAIN-SUFFIX,blarg.xyz
 DOMAIN-SUFFIX,blarla.com
@@ -8599,6 +8602,7 @@ DOMAIN-SUFFIX,botar.co.uk
 DOMAIN-SUFFIX,botcloud.app
 DOMAIN-SUFFIX,botfap.com
 DOMAIN-SUFFIX,botframework.com
+DOMAIN-SUFFIX,botim.me
 DOMAIN-SUFFIX,botmechanic.io
 DOMAIN-SUFFIX,botorch.org
 DOMAIN-SUFFIX,botstop.com
@@ -22411,6 +22415,9 @@ DOMAIN-SUFFIX,horizontalsystems.com
 DOMAIN-SUFFIX,horizonteglobal.com.br
 DOMAIN-SUFFIX,horizonweekly.ca
 DOMAIN-SUFFIX,hornbunny.com
+DOMAIN-SUFFIX,hornet.com
+DOMAIN-SUFFIX,hornetapp.com
+DOMAIN-SUFFIX,hornetx.com
 DOMAIN-SUFFIX,hornyasianmilfs.com
 DOMAIN-SUFFIX,hornybitches.org
 DOMAIN-SUFFIX,hornybutt.com
@@ -31805,7 +31812,9 @@ DOMAIN-SUFFIX,netflixvpn.com
 DOMAIN-SUFFIX,netignition.com
 DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlifydns.com
 DOMAIN-SUFFIX,netlifystatus.com
+DOMAIN-SUFFIX,netlifyusercontent.com
 DOMAIN-SUFFIX,netlock.hu
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,netme.cc
@@ -32925,6 +32934,7 @@ DOMAIN-SUFFIX,ntdvideo.tw
 DOMAIN-SUFFIX,ntdvn.com
 DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,nti.world.com
+DOMAIN-SUFFIX,ntl.fyi
 DOMAIN-SUFFIX,ntmetro.com.tw
 DOMAIN-SUFFIX,ntn627.77300567.com
 DOMAIN-SUFFIX,ntnews.com.au
