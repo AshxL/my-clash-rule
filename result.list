@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52665
+# Total: 52668
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4555,6 +4555,7 @@ DOMAIN-SUFFIX,apple-pay.rs
 DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-tv-plus-press.apple.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
@@ -5333,6 +5334,7 @@ DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atlasvpn.com
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atn.co.za
 DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,ato-shoten.co.jp
@@ -5926,6 +5928,7 @@ DOMAIN-SUFFIX,azlawfirm.ca
 DOMAIN-SUFFIX,aznmovies.com
 DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,azure
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-devices-int.net
 DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-dns.com
@@ -5965,6 +5968,7 @@ DOMAIN-SUFFIX,azureplanetscale.net
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,azziana.com
 DOMAIN-SUFFIX,b-cdn.net
@@ -24079,7 +24083,6 @@ DOMAIN-SUFFIX,infraworks.com
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,ingdirect.es
-DOMAIN-SUFFIX,ingest.apple-studies.com
 DOMAIN-SUFFIX,ingka.com
 DOMAIN-SUFFIX,ingka.dev
 DOMAIN-SUFFIX,ingkacentres.com
