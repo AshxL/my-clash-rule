@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52692
+# Total: 52686
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -3513,7 +3513,6 @@ DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alexgallego.org
 DOMAIN-SUFFIX,alexlur.org
 DOMAIN-SUFFIX,alfa.me
-DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
@@ -10292,6 +10291,7 @@ DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chatgpt.nextweb.fun
 DOMAIN-SUFFIX,chatgpt.org
 DOMAIN-SUFFIX,chatgpt.org.ua
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgpt1.nextweb.fun
 DOMAIN-SUFFIX,chatgpt4online.org
 DOMAIN-SUFFIX,chatgptfree.ai
@@ -20257,7 +20257,6 @@ DOMAIN-SUFFIX,gonike.com
 DOMAIN-SUFFIX,gonzo-movies.com
 DOMAIN-SUFFIX,gonzo.com
 DOMAIN-SUFFIX,gonzoxxxmovies.com
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goo.gle
 DOMAIN-SUFFIX,goo.jp
@@ -24259,7 +24258,6 @@ DOMAIN-SUFFIX,integral.link
 DOMAIN-SUFFIX,integral7.com
 DOMAIN-SUFFIX,integratedsandt.com
 DOMAIN-SUFFIX,integrity.hk
-DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
@@ -26528,6 +26526,7 @@ DOMAIN-SUFFIX,kia.com
 DOMAIN-SUFFIX,kiafinans.se
 DOMAIN-SUFFIX,kichiku-doujinko.com
 DOMAIN-SUFFIX,kichikuou.com
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kickasstorrents.kat.cr
 DOMAIN-SUFFIX,kickasstorrents.to
 DOMAIN-SUFFIX,kickporn.com
@@ -26793,7 +26792,6 @@ DOMAIN-SUFFIX,kompozer.net
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
-DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,konami-igaming.online
 DOMAIN-SUFFIX,konami.co.jp
 DOMAIN-SUFFIX,konami.com
@@ -36357,11 +36355,7 @@ DOMAIN-SUFFIX,prabhasakshi.com
 DOMAIN-SUFFIX,practicalbusinessskills.com
 DOMAIN-SUFFIX,practicalmoneyskills.ca
 DOMAIN-SUFFIX,practicalmoneyskills.jp
-DOMAIN-SUFFIX,practivate.adobe
 DOMAIN-SUFFIX,practivate.adobe.com
-DOMAIN-SUFFIX,practivate.adobe.ipp
-DOMAIN-SUFFIX,practivate.adobe.newoa
-DOMAIN-SUFFIX,practivate.adobe.ntp
 DOMAIN-SUFFIX,pragativadi.com
 DOMAIN-SUFFIX,prameyanews.com
 DOMAIN-SUFFIX,prastitutki.ru
