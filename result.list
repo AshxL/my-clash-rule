@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52721
+# Total: 52724
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -5958,6 +5958,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azureiotsolutions.com
@@ -11726,6 +11727,7 @@ DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,copilot-workspace.githubnext.com
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -29489,6 +29491,7 @@ DOMAIN-SUFFIX,mhceyewear.com
 DOMAIN-SUFFIX,mhg.ru
 DOMAIN-SUFFIX,mhg88.xyz
 DOMAIN-SUFFIX,mhgold.com
+DOMAIN-SUFFIX,mhgui.com
 DOMAIN-SUFFIX,mhhanman.xyz
 DOMAIN-SUFFIX,mhprofessional.benchprep.com
 DOMAIN-SUFFIX,mhqwe.xyz
@@ -41859,6 +41862,7 @@ DOMAIN-SUFFIX,staridol.net
 DOMAIN-SUFFIX,stark-verlag.ch
 DOMAIN-SUFFIX,starling-ie.tiktokv.eu
 DOMAIN-SUFFIX,starling.tiktokv.eu
+DOMAIN-SUFFIX,starlink.com
 DOMAIN-SUFFIX,starlink.cx
 DOMAIN-SUFFIX,starlink.one
 DOMAIN-SUFFIX,starlinkcloud.org
@@ -43314,7 +43318,6 @@ DOMAIN-SUFFIX,terrorism-info.org.il
 DOMAIN-SUFFIX,ters-team.com
 DOMAIN-SUFFIX,tes.com.tw
 DOMAIN-SUFFIX,tesc.com.tw
-DOMAIN-SUFFIX,tesla-cdn.thron.com
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,tesla.services
 DOMAIN-SUFFIX,teslaenergy.services
