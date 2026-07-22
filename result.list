@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52737
+# Total: 52738
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -52177,6 +52177,7 @@ DOMAIN-SUFFIX,zenmarket.jp
 DOMAIN-SUFFIX,zenmate.com
 DOMAIN-SUFFIX,zenmate.com.ru
 DOMAIN-SUFFIX,zenmind.org
+DOMAIN-SUFFIX,zenmux.ai
 DOMAIN-SUFFIX,zenodo.org
 DOMAIN-SUFFIX,zenopencircle.org.au
 DOMAIN-SUFFIX,zenra.net
