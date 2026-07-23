@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52738
+# Total: 52739
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -44425,6 +44425,7 @@ DOMAIN-SUFFIX,tok.media
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tokencan.net
 DOMAIN-SUFFIX,tokenlon.im
+DOMAIN-SUFFIX,tokenplus.app
 DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,tokenterminal.com
 DOMAIN-SUFFIX,tokhmi.xyz
