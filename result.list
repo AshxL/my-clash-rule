@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52772
+# Total: 52782
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -2678,6 +2678,7 @@ DOMAIN-SUFFIX,acss.red
 DOMAIN-SUFFIX,actalis.com
 DOMAIN-SUFFIX,actalis.it
 DOMAIN-SUFFIX,actfortibet.org
+DOMAIN-SUFFIX,actifio.com
 DOMAIN-SUFFIX,actimes.com.au
 DOMAIN-SUFFIX,actiongirls.com
 DOMAIN-SUFFIX,actionjav.com
@@ -25621,7 +25622,10 @@ DOMAIN-SUFFIX,jetbra.in
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.ru
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jetfuelapp.com
@@ -26885,6 +26889,8 @@ DOMAIN-SUFFIX,koshelek.app
 DOMAIN-SUFFIX,kosho.or.jp
 DOMAIN-SUFFIX,kosmo.com.my
 DOMAIN-SUFFIX,kostenlosepornoclips.com
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kottke.org
 DOMAIN-SUFFIX,koubaibu.jp
@@ -26952,6 +26958,7 @@ DOMAIN-SUFFIX,ktchateau.com.tw
 DOMAIN-SUFFIX,ktcom.jp
 DOMAIN-SUFFIX,ktech.team
 DOMAIN-SUFFIX,ktk.kz
+DOMAIN-SUFFIX,ktor.io
 DOMAIN-SUFFIX,ktsf.com
 DOMAIN-SUFFIX,kttbrasil.org
 DOMAIN-SUFFIX,ktv58.net
@@ -31369,6 +31376,7 @@ DOMAIN-SUFFIX,myiphider.com
 DOMAIN-SUFFIX,myipod.net
 DOMAIN-SUFFIX,myisagenix.com
 DOMAIN-SUFFIX,myitchannel.com
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,myjkwd.com
 DOMAIN-SUFFIX,myjournalcourier.com
 DOMAIN-SUFFIX,myjs.tw
@@ -33975,6 +33983,7 @@ DOMAIN-SUFFIX,openweave.io
 DOMAIN-SUFFIX,openwebster.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,openwrt.org.cn
+DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,operavpn.com
 DOMAIN-SUFFIX,opersa.com.ar
@@ -42908,6 +42917,7 @@ DOMAIN-SUFFIX,talkboxapp.com
 DOMAIN-SUFFIX,talkcc.com
 DOMAIN-SUFFIX,talkenglishprogram.com
 DOMAIN-SUFFIX,talkie-ai.com
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,talksport.com
 DOMAIN-SUFFIX,talktalkkorea.or.kr
