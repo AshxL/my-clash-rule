@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52781
+# Total: 52795
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -13284,6 +13284,8 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepsukebe.io
 DOMAIN-SUFFIX,deepswap.ai
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,deerparkcenter.org
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,defaceherface.com
@@ -17816,6 +17818,8 @@ DOMAIN-SUFFIX,flux68.com
 DOMAIN-SUFFIX,flv2mp3.by
 DOMAIN-SUFFIX,flvto.biz
 DOMAIN-SUFFIX,flw.ph
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,fly1.awings.cc
 DOMAIN-SUFFIX,fly1.smallwings.xyz
 DOMAIN-SUFFIX,fly4.awings.cc
@@ -17826,6 +17830,7 @@ DOMAIN-SUFFIX,flyingjizz.com
 DOMAIN-SUFFIX,flyingv.cc
 DOMAIN-SUFFIX,flyingvpnapp.com
 DOMAIN-SUFFIX,flyinsolo.cc
+DOMAIN-SUFFIX,flyio.net
 DOMAIN-SUFFIX,flyordie.com
 DOMAIN-SUFFIX,flypool.org
 DOMAIN-SUFFIX,flyradio.com.tw
@@ -20002,6 +20007,7 @@ DOMAIN-SUFFIX,gleline.com
 DOMAIN-SUFFIX,glemte.no
 DOMAIN-SUFFIX,glennbeck.com
 DOMAIN-SUFFIX,gliocchidellaguerra.it
+DOMAIN-SUFFIX,glitchwave.com
 DOMAIN-SUFFIX,global-fh.com
 DOMAIN-SUFFIX,global-fuhui.com
 DOMAIN-SUFFIX,global-sci.org
@@ -34271,14 +34277,17 @@ DOMAIN-SUFFIX,ozodlik.org
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-tech.ru
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,ozon.tm
@@ -38674,6 +38683,7 @@ DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,ruuh.com
 DOMAIN-SUFFIX,ruvideos.net
@@ -38699,6 +38709,7 @@ DOMAIN-SUFFIX,rxycp.com
 DOMAIN-SUFFIX,ry-ss.tk
 DOMAIN-SUFFIX,ry88.com
 DOMAIN-SUFFIX,rykdom.co.za
+DOMAIN-SUFFIX,rym.fm
 DOMAIN-SUFFIX,ryokoyomiuri.co.jp
 DOMAIN-SUFFIX,ryonosuke.jp
 DOMAIN-SUFFIX,ryukyubank.co.jp
@@ -40998,6 +41009,7 @@ DOMAIN-SUFFIX,snk-corp.info
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,snl.com
 DOMAIN-SUFFIX,snl.no
+DOMAIN-SUFFIX,snmc.io
 DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,snowcorp.com
 DOMAIN-SUFFIX,snowfl.com
@@ -41159,6 +41171,8 @@ DOMAIN-SUFFIX,somee.com
 DOMAIN-SUFFIX,somnics.com
 DOMAIN-SUFFIX,son-gallery.com
 DOMAIN-SUFFIX,sonatype.org
+DOMAIN-SUFFIX,sonematic.net
+DOMAIN-SUFFIX,sonemic.com
 DOMAIN-SUFFIX,songbookplus.com
 DOMAIN-SUFFIX,songjianjun.com
 DOMAIN-SUFFIX,songkimo.com
