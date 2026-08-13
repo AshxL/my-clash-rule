@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52868
+# Total: 52880
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -9044,6 +9044,7 @@ DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,building3dcontent.com
 DOMAIN-SUFFIX,buildwithchrome.com
 DOMAIN-SUFFIX,builtfromebay.com
+DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,buiosch.edu.hk
 DOMAIN-SUFFIX,bukaporn.com
 DOMAIN-SUFFIX,bukkake-jav.com
@@ -31463,6 +31464,7 @@ DOMAIN-SUFFIX,mynetav.net
 DOMAIN-SUFFIX,mynetav.org
 DOMAIN-SUFFIX,mynetname.net
 DOMAIN-SUFFIX,mynike.com
+DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,mynumber.org
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,myok.eu
@@ -32704,8 +32706,17 @@ DOMAIN-SUFFIX,nivn.com
 DOMAIN-SUFFIX,nivod.tv
 DOMAIN-SUFFIX,nivodi.tv
 DOMAIN-SUFFIX,nivodz.com
+DOMAIN-SUFFIX,nix-community.github.io
+DOMAIN-SUFFIX,nix-community.org
 DOMAIN-SUFFIX,nix.cz
+DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,nix.store
+DOMAIN-SUFFIX,nixcon.org
+DOMAIN-SUFFIX,nixcon2017.org
+DOMAIN-SUFFIX,nixlang.com
 DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nixos.wiki
+DOMAIN-SUFFIX,nixpkgs.org
 DOMAIN-SUFFIX,niziero.info
 DOMAIN-SUFFIX,njactb.org
 DOMAIN-SUFFIX,njav.tv
@@ -51340,6 +51351,7 @@ DOMAIN-SUFFIX,yandex.ee
 DOMAIN-SUFFIX,yandex.eu
 DOMAIN-SUFFIX,yandex.fi
 DOMAIN-SUFFIX,yandex.fr
+DOMAIN-SUFFIX,yandex.it
 DOMAIN-SUFFIX,yandex.jobs
 DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.kz
