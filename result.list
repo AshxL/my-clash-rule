@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52883
+# Total: 52884
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -38746,6 +38746,7 @@ DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutube.sport
