@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52884
+# Total: 52885
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -32833,6 +32833,7 @@ DOMAIN-SUFFIX,nord-mirror-site.net
 DOMAIN-SUFFIX,nord-wangluo.com
 DOMAIN-SUFFIX,nord-wangzhan.com
 DOMAIN-SUFFIX,nord4china.com
+DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,nordea.se
 DOMAIN-SUFFIX,nordforme.net
 DOMAIN-SUFFIX,nordme.org
