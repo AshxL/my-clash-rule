@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52885
+# Total: 52894
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -1577,6 +1577,7 @@ DOMAIN-SUFFIX,5aimiku.com
 DOMAIN-SUFFIX,5axis-machining.com
 DOMAIN-SUFFIX,5beatsbydre.com
 DOMAIN-SUFFIX,5c.com.tw
+DOMAIN-SUFFIX,5ch.io
 DOMAIN-SUFFIX,5ch.net
 DOMAIN-SUFFIX,5chat.it
 DOMAIN-SUFFIX,5cuerdas.com.ar
@@ -3950,6 +3951,7 @@ DOMAIN-SUFFIX,amazonuniversity.jobs
 DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amazonvideodirect.com
+DOMAIN-SUFFIX,amazonwebservices.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,ambrosiabistro.cl
 DOMAIN-SUFFIX,amc.com
@@ -14633,6 +14635,7 @@ DOMAIN-SUFFIX,drdreprobeatssale.com
 DOMAIN-SUFFIX,dreamamateurs.com
 DOMAIN-SUFFIX,dreambmw.ca
 DOMAIN-SUFFIX,dreamforce.com
+DOMAIN-SUFFIX,dreamgen.com
 DOMAIN-SUFFIX,dreamland.im
 DOMAIN-SUFFIX,dreammask.net
 DOMAIN-SUFFIX,dreammovies.com
@@ -26671,6 +26674,7 @@ DOMAIN-SUFFIX,kimas.com.tw
 DOMAIN-SUFFIX,kimberleyecho.com.au
 DOMAIN-SUFFIX,kimchi.tv
 DOMAIN-SUFFIX,kimepwang.com
+DOMAIN-SUFFIX,kimi.ai
 DOMAIN-SUFFIX,kimi.com.tw
 DOMAIN-SUFFIX,kimo.com
 DOMAIN-SUFFIX,kimo.com.tw
@@ -30666,6 +30670,7 @@ DOMAIN-SUFFIX,moonbingo.com
 DOMAIN-SUFFIX,mooneroid.com
 DOMAIN-SUFFIX,moonexchange.co
 DOMAIN-SUFFIX,moonpoet.com
+DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,mooo.com
 DOMAIN-SUFFIX,moooi.jp
 DOMAIN-SUFFIX,moorburn.com
@@ -32389,7 +32394,9 @@ DOMAIN-SUFFIX,nickscipio.com
 DOMAIN-SUFFIX,nicky.xxx
 DOMAIN-SUFFIX,nicn.com
 DOMAIN-SUFFIX,nico
+DOMAIN-SUFFIX,nico.ms
 DOMAIN-SUFFIX,nico.one
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicolasmoro.net
 DOMAIN-SUFFIX,nicolehenry.com
@@ -32894,6 +32901,7 @@ DOMAIN-SUFFIX,note.meetcafe.net
 DOMAIN-SUFFIX,note.mu
 DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notegpt.io
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notevenwrong.net
 DOMAIN-SUFFIX,nothinghere.tk
@@ -43005,6 +43013,7 @@ DOMAIN-SUFFIX,talentlens.com
 DOMAIN-SUFFIX,taleofthenight.com
 DOMAIN-SUFFIX,talk853.com
 DOMAIN-SUFFIX,talk910.com
+DOMAIN-SUFFIX,talkai.info
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,talkboxapp.com
 DOMAIN-SUFFIX,talkcc.com
