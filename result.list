@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52897
+# Total: 52899
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4393,6 +4393,7 @@ DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.rlcdn.com
 DOMAIN-SUFFIX,api.segment.io
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.soundcloud.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api.termius.com
@@ -50053,6 +50054,7 @@ DOMAIN-SUFFIX,x78.com
 DOMAIN-SUFFIX,x78bb.com
 DOMAIN-SUFFIX,x81zw.com
 DOMAIN-SUFFIX,x831.com
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,x88av.cc
 DOMAIN-SUFFIX,x8cc.net
 DOMAIN-SUFFIX,x90its.com
