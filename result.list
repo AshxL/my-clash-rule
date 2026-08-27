@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52899
+# Total: 52902
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -2765,6 +2765,7 @@ DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
@@ -34251,6 +34252,7 @@ DOMAIN-SUFFIX,oursteps.co
 DOMAIN-SUFFIX,oursteps.com.au
 DOMAIN-SUFFIX,oursweb.net
 DOMAIN-SUFFIX,ourtv.hk
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,out-app-purchase.com
 DOMAIN-SUFFIX,outbound.io
 DOMAIN-SUFFIX,outcastedproject.blogspot.com.es
@@ -51326,6 +51328,7 @@ DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoogroups.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com
