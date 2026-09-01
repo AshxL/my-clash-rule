@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52905
+# Total: 52910
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -19360,7 +19360,9 @@ DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,gate.huang.cool
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gate.pepay.com.tw
+DOMAIN-SUFFIX,gate.tv
 DOMAIN-SUFFIX,gate02.ne.jp
+DOMAIN-SUFFIX,gateapi.io
 DOMAIN-SUFFIX,gatecoin.com
 DOMAIN-SUFFIX,gatedata.org
 DOMAIN-SUFFIX,gatehub.net
@@ -29822,6 +29824,7 @@ DOMAIN-SUFFIX,milftrip.com
 DOMAIN-SUFFIX,milftube.pro
 DOMAIN-SUFFIX,milftugs.com
 DOMAIN-SUFFIX,milfvr.com
+DOMAIN-SUFFIX,milfy.com
 DOMAIN-SUFFIX,milfzr.com
 DOMAIN-SUFFIX,miliav.com
 DOMAIN-SUFFIX,milivpn.com
@@ -40930,6 +40933,7 @@ DOMAIN-SUFFIX,slate.fr
 DOMAIN-SUFFIX,slavbank.ru
 DOMAIN-SUFFIX,slavicdragon.com
 DOMAIN-SUFFIX,slavicstar.com
+DOMAIN-SUFFIX,slayed.com
 DOMAIN-SUFFIX,slaytizle.com
 DOMAIN-SUFFIX,slc.tl
 DOMAIN-SUFFIX,slcairport.com
@@ -47498,6 +47502,7 @@ DOMAIN-SUFFIX,vivosupplies.com
 DOMAIN-SUFFIX,vivthomas.com
 DOMAIN-SUFFIX,vivud.com
 DOMAIN-SUFFIX,vixen.com
+DOMAIN-SUFFIX,vixengroup.com
 DOMAIN-SUFFIX,vixvids.to
 DOMAIN-SUFFIX,viyoutube.com
 DOMAIN-SUFFIX,vizon.com.tr
