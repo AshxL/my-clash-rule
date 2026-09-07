@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 52914
+# Total: 52915
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -27261,6 +27261,7 @@ DOMAIN-SUFFIX,lasikenka.fi
 DOMAIN-SUFFIX,lasprovincias.es
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,lastcombat.com
+DOMAIN-SUFFIX,lastfm-img.freetls.fastly.net
 DOMAIN-SUFFIX,lastfm.es
 DOMAIN-SUFFIX,lastfm.freetls.fastly.net
 DOMAIN-SUFFIX,lastfm.se
