@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 53061
+# Total: 53072
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -5254,7 +5254,6 @@ DOMAIN-SUFFIX,asmrbuluo.com
 DOMAIN-SUFFIX,asmrgay.com
 DOMAIN-SUFFIX,asn-online.org
 DOMAIN-SUFFIX,asnebula.cf
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asos.com
 DOMAIN-SUFFIX,asp-cc.com
 DOMAIN-SUFFIX,asp.net
@@ -6877,8 +6876,15 @@ DOMAIN-SUFFIX,befuck.com
 DOMAIN-SUFFIX,befuck.net
 DOMAIN-SUFFIX,begadistrictnews.com.au
 DOMAIN-SUFFIX,begemotartandfashion.com
+DOMAIN-SUFFIX,beget.app
+DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.hosting
+DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
+DOMAIN-SUFFIX,beget.tech
+DOMAIN-SUFFIX,begetcdn.cloud
 DOMAIN-SUFFIX,begin-trade.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,behindkink.com
@@ -6950,6 +6956,7 @@ DOMAIN-SUFFIX,berlintwitterwall.com
 DOMAIN-SUFFIX,berm.co.nz
 DOMAIN-SUFFIX,beru.ru
 DOMAIN-SUFFIX,berzinarchives.com
+DOMAIN-SUFFIX,beserver.ru
 DOMAIN-SUFFIX,besibetonbaja.com
 DOMAIN-SUFFIX,best-proxy.com.de
 DOMAIN-SUFFIX,best-sex-games.com
@@ -7157,6 +7164,7 @@ DOMAIN-SUFFIX,bfvpn.com
 DOMAIN-SUFFIX,bg1239.com
 DOMAIN-SUFFIX,bg3.co
 DOMAIN-SUFFIX,bg567.com
+DOMAIN-SUFFIX,bget.ru
 DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgme.me
@@ -12755,6 +12763,7 @@ DOMAIN-SUFFIX,d33rhn1om6dyij.cloudfront.net
 DOMAIN-SUFFIX,d33uxjz28fpmpx.cloudfront.net
 DOMAIN-SUFFIX,d33wubrfki0l68.cloudfront.net
 DOMAIN-SUFFIX,d347t1jq2o5r0r.cloudfront.net
+DOMAIN-SUFFIX,d348twzf7a8p5.cloudfront.net
 DOMAIN-SUFFIX,d34end593ni7uj.cloudfront.net
 DOMAIN-SUFFIX,d34igfgmww1rs6.cloudfront.net
 DOMAIN-SUFFIX,d34kq9ecg4rzxm.cloudfront.net
@@ -13735,6 +13744,7 @@ DOMAIN-SUFFIX,developer.microsoft.com
 DOMAIN-SUFFIX,developers.box.net
 DOMAIN-SUFFIX,developers.facebook.com
 DOMAIN-SUFFIX,developria.com
+DOMAIN-SUFFIX,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
 DOMAIN-SUFFIX,deviantclip.com
@@ -14619,6 +14629,7 @@ DOMAIN-SUFFIX,downloadsforipod.com
 DOMAIN-SUFFIX,downloadtwittervideo.com
 DOMAIN-SUFFIX,downyoutube.com
 DOMAIN-SUFFIX,doy.instanthq.com
+DOMAIN-SUFFIX,doy2mn9upadnk.cloudfront.net
 DOMAIN-SUFFIX,dp02chdsg9x39.cloudfront.net
 DOMAIN-SUFFIX,dpaxwwk0x1o6o.cloudfront.net
 DOMAIN-SUFFIX,dphk.org
@@ -17847,8 +17858,6 @@ DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,flickrhivemind.net
 DOMAIN-SUFFIX,flickriver.com
 DOMAIN-SUFFIX,flickyourbic.com
-DOMAIN-SUFFIX,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,fliki.ai
 DOMAIN-SUFFIX,flikr.com
 DOMAIN-SUFFIX,fling.com
@@ -41790,6 +41799,7 @@ DOMAIN-SUFFIX,spritzz.com
 DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,sproxy.info
 DOMAIN-SUFFIX,sproxy.net
+DOMAIN-SUFFIX,sprut.io
 DOMAIN-SUFFIX,spservicing.com
 DOMAIN-SUFFIX,sptvbroadcast.com
 DOMAIN-SUFFIX,sputnikglobe.com
@@ -50683,6 +50693,7 @@ DOMAIN-SUFFIX,xn--8uq428d76d.tokyo
 DOMAIN-SUFFIX,xn--90ab.com
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
 DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
+DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--90wwvt03e.com
