@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 53072
+# Total: 53077
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -27029,6 +27029,8 @@ DOMAIN-SUFFIX,kouji6309.idv.tw
 DOMAIN-SUFFIX,koukoku.jp
 DOMAIN-SUFFIX,kouwobb.com
 DOMAIN-SUFFIX,kowalskypage.com
+DOMAIN-SUFFIX,kp-config-smart-tv.akamaized.net
+DOMAIN-SUFFIX,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,kp.itzdrli.cc
 DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,kpacg.com
@@ -28715,6 +28717,7 @@ DOMAIN-SUFFIX,magnetdl.cc
 DOMAIN-SUFFIX,magnetdl.com
 DOMAIN-SUFFIX,magnetdl.me
 DOMAIN-SUFFIX,magnetictimes.com
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,magzter.com
 DOMAIN-SUFFIX,mahabodhi.org
 DOMAIN-SUFFIX,mahajantech.com
@@ -31159,6 +31162,7 @@ DOMAIN-SUFFIX,mtp9.xyz
 DOMAIN-SUFFIX,mtpro.xyz
 DOMAIN-SUFFIX,mtrading.com
 DOMAIN-SUFFIX,mtrfoods.com
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -36525,6 +36529,7 @@ DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,postini.com
 DOMAIN-SUFFIX,postlm.com
 DOMAIN-SUFFIX,postmall.com.tw
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,posts.careerengine.us
 DOMAIN-SUFFIX,postsocialism.org
 DOMAIN-SUFFIX,poststar.com
