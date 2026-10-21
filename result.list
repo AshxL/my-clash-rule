@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 53077
+# Total: 53079
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -5775,8 +5775,10 @@ DOMAIN-SUFFIX,avionicstructures.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,avirtualfriend.ch
 DOMAIN-SUFFIX,avistaz.to
+DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
 DOMAIN-SUFFIX,avjb.com
