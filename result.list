@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 53079
+# Total: 53101
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -4258,6 +4258,7 @@ DOMAIN-SUFFIX,anselmo.cl
 DOMAIN-SUFFIX,ansin.erodayo.com
 DOMAIN-SUFFIX,answering-islam.org
 DOMAIN-SUFFIX,answers.com
+DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anta888.com
 DOMAIN-SUFFIX,antarvasnaclips.com
 DOMAIN-SUFFIX,antarvasnax.com
@@ -4268,6 +4269,7 @@ DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,anthroposophy.org
 DOMAIN-SUFFIX,anti.anti.cnn.googlepages.com
 DOMAIN-SUFFIX,anti1984.com
@@ -4283,6 +4285,7 @@ DOMAIN-SUFFIX,antiwall.com
 DOMAIN-SUFFIX,antiwave.net
 DOMAIN-SUFFIX,antpool.com
 DOMAIN-SUFFIX,antronio.cl
+DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,antvpn.net
 DOMAIN-SUFFIX,antwerpen.be
 DOMAIN-SUFFIX,anu.edu.au
@@ -10343,6 +10346,7 @@ DOMAIN-SUFFIX,chat18.aichatos.xyz
 DOMAIN-SUFFIX,chat3.geekr.dev
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatbot.theb.ai
+DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN-SUFFIX,chatbotgpt.fr
 DOMAIN-SUFFIX,chatbotui.com
 DOMAIN-SUFFIX,chatdoc.com
@@ -11059,10 +11063,16 @@ DOMAIN-SUFFIX,classicrock-radio.de
 DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudeacademy.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudia-marie.com
 DOMAIN-SUFFIX,claudiopagliara.it
@@ -12844,6 +12854,7 @@ DOMAIN-SUFFIX,d3q2rmcjrnnvi2.cloudfront.net
 DOMAIN-SUFFIX,d3qyvwl7jxpx3t.cloudfront.net
 DOMAIN-SUFFIX,d3r7nsslvs6aaf.cloudfront.net
 DOMAIN-SUFFIX,d3s6xpomh6soe4.cloudfront.net
+DOMAIN-SUFFIX,d3stzm2eumvgb4.cloudfront.net
 DOMAIN-SUFFIX,d3svuyn6awh7rq.cloudfront.net
 DOMAIN-SUFFIX,d3t0mlgw2eg7ef.cloudfront.net
 DOMAIN-SUFFIX,d3t8jz6506hbdb.cloudfront.net
@@ -17920,6 +17931,17 @@ DOMAIN-SUFFIX,flutrackers.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
 DOMAIN-SUFFIX,flux68.com
+DOMAIN-SUFFIX,fluxer.app
+DOMAIN-SUFFIX,fluxer.com
+DOMAIN-SUFFIX,fluxer.dev
+DOMAIN-SUFFIX,fluxer.gg
+DOMAIN-SUFFIX,fluxer.gift
+DOMAIN-SUFFIX,fluxer.media
+DOMAIN-SUFFIX,fluxer.tools
+DOMAIN-SUFFIX,fluxerapp.com
+DOMAIN-SUFFIX,fluxerstatic.com
+DOMAIN-SUFFIX,fluxerstatus.com
+DOMAIN-SUFFIX,fluxerusercontent.com
 DOMAIN-SUFFIX,flv2mp3.by
 DOMAIN-SUFFIX,flvto.biz
 DOMAIN-SUFFIX,flw.ph
