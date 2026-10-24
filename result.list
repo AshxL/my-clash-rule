@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 本地备份
-# Total: 53126
+# Total: 53127
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,blogspot
@@ -19263,6 +19263,7 @@ DOMAIN-SUFFIX,g5.slyip.com
 DOMAIN-SUFFIX,g646.com
 DOMAIN-SUFFIX,g6hentai.com
 DOMAIN-SUFFIX,g718.sx
+DOMAIN-SUFFIX,ga.jspm.io
 DOMAIN-SUFFIX,ga888.tw
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,gabgabhouse.com
