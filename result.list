@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 远程下载
-# Total: 55683
+# Total: 55688
 DOMAIN,1password.drift.click
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,a-tiles.locationiq.com
@@ -11033,6 +11033,7 @@ DOMAIN-SUFFIX,building3dcontent.com
 DOMAIN-SUFFIX,buildinternet.com
 DOMAIN-SUFFIX,buildkiteassets.com
 DOMAIN-SUFFIX,buildkiteusercontent.com
+DOMAIN-SUFFIX,builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,builtfromebay.com
 DOMAIN-SUFFIX,builtwith.com
 DOMAIN-SUFFIX,builtwithbootstrap.com
@@ -15368,6 +15369,7 @@ DOMAIN-SUFFIX,debate.org
 DOMAIN-SUFFIX,debatepolitics.com
 DOMAIN-SUFFIX,debenhams.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debuggex.com
 DOMAIN-SUFFIX,debugproject.com
@@ -16664,6 +16666,7 @@ DOMAIN-SUFFIX,dotfreesex.com
 DOMAIN-SUFFIX,dotherex.com
 DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,dotmac.de
+DOMAIN-SUFFIX,dotnetcli.trafficmanager.net
 DOMAIN-SUFFIX,dotomi.com
 DOMAIN-SUFFIX,dotplane.com
 DOMAIN-SUFFIX,dotsub.com
@@ -41090,6 +41093,7 @@ DOMAIN-SUFFIX,remi.flamary.com
 DOMAIN-SUFFIX,reminderfox.org
 DOMAIN-SUFFIX,remington.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,remocontro.it
 DOMAIN-SUFFIX,remot3.it
@@ -45546,6 +45550,7 @@ DOMAIN-SUFFIX,sundayguardianlive.com
 DOMAIN-SUFFIX,sundaypost.com
 DOMAIN-SUFFIX,sundayready.com
 DOMAIN-SUFFIX,sundayroad.net
+DOMAIN-SUFFIX,sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,suneg.com
 DOMAIN-SUFFIX,sungard.com
 DOMAIN-SUFFIX,sungful.com
