@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 远程下载
-# Total: 55688
+# Total: 55690
 DOMAIN,1password.drift.click
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,a-tiles.locationiq.com
@@ -14369,6 +14369,7 @@ DOMAIN-SUFFIX,cycschool.edu.hk
 DOMAIN-SUFFIX,cydia.ifuckgfw.com
 DOMAIN-SUFFIX,cyfrowypolsat.pl
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cyh.org.tw
@@ -54177,6 +54178,7 @@ DOMAIN-SUFFIX,yazhouribao.com
 DOMAIN-SUFFIX,yazhouse8.com
 DOMAIN-SUFFIX,yazhouseba.co
 DOMAIN-SUFFIX,yazhouseba.com
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yb1111.com
 DOMAIN-SUFFIX,ybbbet.com
 DOMAIN-SUFFIX,ybvip.com
