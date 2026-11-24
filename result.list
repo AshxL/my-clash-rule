@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 远程下载
-# Total: 55704
+# Total: 55705
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,a-tiles.locationiq.com
 DOMAIN,a.gawby.com
@@ -21969,6 +21969,7 @@ DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,geminiweb-pa.clients.google.com
 DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
 DOMAIN-SUFFIX,gemkenz.com.tw
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,gemports.com
 DOMAIN-SUFFIX,gemtextil.net
 DOMAIN-SUFFIX,gen.lib.rus.ec
