@@ -1,6 +1,6 @@
 # Auto-generated rule list
 # File 2 Source: 远程下载
-# Total: 55705
+# Total: 55710
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,a-tiles.locationiq.com
 DOMAIN,a.gawby.com
@@ -11461,6 +11461,7 @@ DOMAIN-SUFFIX,cachefly.cachefly.net
 DOMAIN-SUFFIX,cachefly.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cachinese.com
+DOMAIN-SUFFIX,cachix.org
 DOMAIN-SUFFIX,cachyos.org
 DOMAIN-SUFFIX,cacnews.ca
 DOMAIN-SUFFIX,cacnw.com
@@ -13903,6 +13904,7 @@ DOMAIN-SUFFIX,coursera-for-business.org
 DOMAIN-SUFFIX,coursera.community
 DOMAIN-SUFFIX,coursera.help
 DOMAIN-SUFFIX,coursera.org
+DOMAIN-SUFFIX,courses.myecnu.org
 DOMAIN-SUFFIX,courses.smartpassiveincome.com
 DOMAIN-SUFFIX,courses.sunnyparent.com
 DOMAIN-SUFFIX,coursesmart.co.uk
@@ -19379,11 +19381,13 @@ DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-insights.com
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlycdn.com
+DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,fastmail.com
@@ -50357,6 +50361,7 @@ DOMAIN-SUFFIX,vivid.com
 DOMAIN-SUFFIX,vividstream.xxx
 DOMAIN-SUFFIX,vividtranny.com
 DOMAIN-SUFFIX,viviporn.tv
+DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,vivthomas.com
 DOMAIN-SUFFIX,vivwin88.com
 DOMAIN-SUFFIX,vixen.com
